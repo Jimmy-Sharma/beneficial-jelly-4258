@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="navOsama.css">
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+      integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
+      crossorigin="anonymous"
+    />
+    <title>Document</title>
+    <style>
+      *{
+        margin: 0px;
+        padding: 0px;
+      }
+      img {
+        width: -webkit-fill-available;
+      }
+      #parent {
+        margin-top: 100px;
+      }
+      #nav {
+        display: flex;
+        /* height: 100px; */
+        justify-content: space-between;
+        /* margin: auto; */
+        font-weight: 800;
+        padding: 10px;
+        align-items: center;
+        position: fixed;
+        background: white;
+        width: 100%;
+        top: 0;
+        background: rgba(255, 255, 255, 0.9);
+        /* background: transparent; */
+        backdrop-filter: blur(45px);
+        z-index: 5;
+        left: 0;
+        box-sizing: border-box;
+        /* box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, */
+        /* rgba(0, 0, 0, 0.1) 0px 0px 1px 0px; */
+      }
+      .logo {
+        display: flex;
+        align-items: center;
+        width: 60%;
+
+        margin-left: 20px;
+      }
+      .bar {
+        display: flex;
+        align-items: center;
+        justify-content: right;
+        gap: 30px;
+      }
+
+      .bar a {
+        display: flex;
+        font-weight: 600;
+        text-decoration: none;
+        gap: 10px;
+        color: black;
+      }
+
+      .bar a:hover {
+        fill: #d26548;
+        color: #d26548;
+       
+      }
+
+      .logo img {
+        /* height: 200px; */
+        width: 200px;
+
+        object-position: center center;
+      }
+      .tag{
+        display: flex;
+        font-weight: 600;
+        text-decoration: none;
+        gap: 10px;
+        color: black;   
+        align-items: center;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+
+      }
+   
+    </style>
+  </head>
+  <body>
+   
+    <nav id="navbar" class="container">
+     
+    </nav>
+   
+
+    <div id="parent">
+    
+    </div>
+  </body>
+</html>
+<script>
+  let data = {
+    Mens: [
+      {
+        name: "men1",
+        image:
+          "https://static.zara.net/photos///contents/mkt/spots/aw22-north-man-athleticz/subhome-xmedia-50//w/1920/IMAGE-landscape-fill-8461d8f6-aa20-4b7c-bf56-ddbfe1ab66ea-default_0.jpg?ts=1670844315727",
+      },
+      {
+        name: "men2",
+        image:
+          "https://static.zara.net/photos///contents/mkt/spots/aw22-north-man-new/subhome-xmedia-49//w/1920/IMAGE-landscape-fill-26580743-41eb-4586-859d-09e81a25b1be-default_0.jpg?ts=1670421023459",
+      },
+      {
+        name: "men3",
+        image:
+          "https://static.zara.net/photos///contents/mkt/spots/aw22-man-north-shoesandbags/subhome-xmedia-48//w/1920/IMAGE-landscape-fill-b24b0454-105d-41bd-80f4-604d93d15bb3-default_0.jpg?ts=1669655003956",
+      },
+      {
+        name: "men4",
+        image:
+          "https://static.zara.net/photos///contents/mkt/spots/aw22-north-man-edition/subhome-xmedia-w47//w/1920/IMAGE-landscape-fill-88c5ba6c-832e-442e-878f-48b60c0c8aa7-default_0.jpg?ts=1669457412950",
+      },
+    ],
+    Womens: [
+      {
+        name: "women1",
+        image:
+          "https://static.zara.net/photos///contents/mkt/spots/aw22-north-woman-new/subhome-xmedia-49-2//w/1920/IMAGE-landscape-default-fill-9470e5e9-1ec3-45c6-9045-53a692b8b504-default_0.jpg?ts=1670431933456",
+      },
+      {
+        name: "women2",
+        image:
+          "https://static.zara.net/photos///contents/mkt/spots/aw22-north-woman-knitwear/subhome-xmedia-49//w/1920/IMAGE-landscape-fill-4b91c18a-fd1a-4d7e-8ddb-39cafb54cdef-default_0.jpg?ts=1670433076541",
+      },
+      {
+        name: "women3",
+        image:
+          "https://static.zara.net/photos///contents/mkt/spots/aw22-north-collection/subhome-xmedia-49//w/1920/IMAGE-landscape-default-fill-cdf1d01f-6f9e-46e7-a035-8079f5d17f72-default_0.jpg?ts=1670432527336",
+      },
+      {
+        name: "women4",
+        image:
+          "https://static.zara.net/photos///contents/mkt/spots/aw22-north-woman-best-sellers/subhome-xmedia-38//w/1920/IMAGE-landscape-fill-c68605f6-1f94-4830-8f4a-0f3bf22017e2-default_0.jpg?ts=1663579002306",
+      },
+    ],
+    Kids: [
+      {
+        name: "kids1",
+        image:
+          "https://static.zara.net/photos///contents/mkt/spots/aw22-north-kids-party/subhome-xmedia-47-2//w/1920/IMAGE-landscape-fill-90388659-c9ad-44c0-8fbc-3e049adef8d9-default_0.jpg?ts=1669457847606",
+      },
+      {
+        name: "kids2",
+        image:
+          "https://static.zara.net/photos///contents/mkt/spots/aw22-north-kids-girl/subhome-xmedia-49-2//w/1920/IMAGE-landscape-fill-5e46fc66-df6c-42a3-88ac-51b2d0e79e1f-default_0.jpg?ts=1670573133823",
+      },
+      {
+        name: "kids3",
+        image:
+          "https://static.zara.net/photos///contents/mkt/spots/aw22-north-kids-boy/subhome-xmedia-47//w/1920/IMAGE-landscape-fill-ef5aa608-9c2f-4d48-8cbd-8a76a0d0658c-default_0.jpg?ts=1669379233104",
+      },
+      {
+        name: "kids4",
+        image:
+          "https://static.zara.net/photos///contents/mkt/spots/aw22-north-kids-babygirl/subhome-xmedia-49//w/1920/IMAGE-landscape-fill-acc946ba-9a34-4108-af8e-82d5a47552c7-default_0.jpg?ts=1670427270623",
+      },
+    ],
+  };
+  let Parent = document.getElementById("parent");
+  function showproducts(data) {
+    let box_div = document.createElement("div");
+    box_div.id="sam"
+    data.forEach((element) => {
+      let image_p = document.createElement("img");
+      image_p.setAttribute("src", element.image);
+      box_div.append(image_p);
+    });
+    Parent.append(box_div);
+  }
+  showproducts(data.Mens);
+
+  function showmens() {
+    Parent.innerHTML=""
+    showproducts(data.Mens)
+
+    console.log(data.Mens);
+  }
+
+  function showwomens() {
+    Parent.innerHTML=""
+    showproducts(data.Womens)
+    console.log(data.Womens);
+  }
+
+  function showkids() {
+    Parent.innerHTML=""
+    showproducts(data.Kids)
+    console.log(data.Kids);
+  }
+  
+</script>
+<script src="navOsama.js"></script>
