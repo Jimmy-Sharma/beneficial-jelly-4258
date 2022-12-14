@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ZARA India</title>
+    <link
+      rel="icon"
+      href="https://w7.pngwing.com/pngs/39/910/png-transparent-zara-fashion-clothes-clothing-brands-and-logos-icon.png"
+      type="image/x-icon"
+    />
+    <link rel="stylesheet" href="./styles/navbar.css" />
+  </head>
+  <body>
+    <nav id="navbar"></nav>
+    <div class="view2-desktop"></div>
+    <div class="view3-desktop"></div>
+    <div class="view1-desktop"></div>
+  </body>
+</html>
+
+<script type="module">
+  import navbar from "../scripts/navbar.js";
+  let nav_container = document.getElementById("navbar");
+  nav_container.innerHTML = navbar();
+
+  let kyc = localStorage.getItem("kyc") || [];
+  let action = document.getElementById("user-name");
+  console.log(action);
+  if (kyc.length == 0) {
+    action.innerText = " LOG IN";
+  } else {
+    action.innerText = " SIGN OUT";
+  }
+</script>
