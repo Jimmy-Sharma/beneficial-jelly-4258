@@ -1,0 +1,77 @@
+p{
+    font-family: Neue-Helvetica, Helvetica, Arial, "sans-serif";;
+}
+#cart_section_PS{
+    margin-left: 12%;
+}
+#cart_sub_section_PS{
+    width: 34%;
+}
+#cart_fav_PS{
+    width: 45%;
+    display: flex;
+    justify-content: space-between;
+}
+#cart_fav_c_PS{
+    font-weight: 500;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 24px;
+}
+#cart_fav_f_PS{
+    font-weight: 500;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 24px;
+}
+#cart_description_PS{
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 16px;
+    background-color: #f2f2f2;
+    width: auto;
+    padding:  3px 25px;
+}
+#Makeit{
+    display: flex;
+    width: auto;
+}
+.product_name_PS{
+    font-size: 11px;
+    line-height: 16px;
+    color: #747474;
+    font-weight: 600;
+    letter-spacing: 0px;
+}
+.item_main_div_PS{
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+}
+.item_sub_div_PS{
+    width: 72%;
+    height: auto;
+}
+.item_sub_div_PS img{
+    width: 100%;
+    cursor: pointer;
+}
+.item_sub_div_PS button{
+    border: 0px;
+    cursor: pointer;
+    background-color: white; 
+}
+.des_main_div_PS{
+    display: grid;
+    justify-content: space-between;
+}
+.des_main_div_PS p{
+    font-size: 10px;
+    color: #a8a8a8;
+}
+
+.button_DS_PS button{
+    border: 0px;
+    background-color: white;
+    cursor: pointer;
+}
