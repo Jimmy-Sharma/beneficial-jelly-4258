@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="navOsama.css">
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+      integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
+      crossorigin="anonymous"
+    />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="logo">
+      <img src="logo.png" alt="" />
+    </div>
+
+    <label htmlFor="checker" class="line">
+      <i class="fas fa-bars" onclick="show()"></i>
+    </label>
+    <ul>
+      <div>
+        <li onclick="sam()">
+          <i class="far fa-address-card"></i>
+          <button class="tag" onclick="showmens()"><span>Mens</span></button>
+        </li>
+        <li onclick="sam()">
+          <i class="far fa-address-card"></i>
+          <button class="tag" onclick="showwomens()">
+            <span>Womens</span>
+          </button>
+        </li>
+        <li onclick="sam()">
+          <i class="fas fa-sitemap"></i>
+          <button class="tag" onclick="showkids()"><span>Kids</span></button>
+        </li>
+      </div>
+
+      <div>
+        <h1>osama</h1>
+      </div>
+    </ul>
+  </body>
+</html>
+<script>
+    function sam() {
+  document.getElementById("checker").checked = true;
+}
+
+function show() {
+    if (document.querySelector("ul").classList.contains("shownav")) {
+        document.querySelector("ul").classList.remove("shownav")
+    }
+    else{
+        document.querySelector("ul").classList.add("shownav")
+    }
+}
+
+
+</script>
