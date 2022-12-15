@@ -20,7 +20,7 @@ function navbar() {
       <ul>
         <li class="nav_item"><a class="navLinks" id="user-name" href="../login.html"></a> </li>
         <li class="nav_item" id="help"><a class="navLinks" href="">HELP</a> </li>
-        <li class="nav_item" id="last-nav"><a class="navLinks" href="../Cart.html">CART</a> </li>
+        <li class="nav_item" id="last-nav"><a class="navLinks" href="../cart.html">CART</a> </li>
       </ul>
     </div>
   </div>`;
