@@ -11,12 +11,15 @@
       type="image/x-icon"
     />
     <link rel="stylesheet" href="./styles/navbar.css" />
+    <link rel="stylesheet" href="./styles/footer.css" />
   </head>
   <body>
     <nav id="navbar"></nav>
     <div class="view2-desktop"></div>
     <div class="view3-desktop"></div>
     <div class="view1-desktop"></div>
+
+    <div id="footer"></div>
   </body>
 </html>
 
@@ -24,6 +27,10 @@
   import navbar from "../scripts/navbar.js";
   let nav_container = document.getElementById("navbar");
   nav_container.innerHTML = navbar();
+
+  import footer from "../scripts/footer.js";
+  let footer_container = document.getElementById("footer");
+  footer_container.innerHTML = footer();
 
   let kyc = localStorage.getItem("kyc") || [];
   let action = document.getElementById("user-name");
