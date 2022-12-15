@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+/* //Big Image Section.................................................................................................................................. */
+  .biggest_img {
+    margin: auto;
+    width: 40%;
+  }
+  .biggest_img>img{
+    width: 100%;
+  }
+  .biggest_img_details {
+    display: flex;
+    justify-content: space-between;
+  }
+  .biggest_img_details > p {
+    font-size: 14px;
+  }
+  /* All Products Section................................................................ */
+  #all_products{
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+   gap: 200px 30px ;
+  }
+  .img_div>img{
+    /* border: 1px solid black; */
+    width: 100%;
+  }
+  .details_div{
+    display:flex;
+    justify-content: space-between;
+    font-size: 12px;
+  }
