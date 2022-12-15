@@ -62,7 +62,22 @@
 .item{
   display: flex;
 }
+.menu p{
+font-weight: normal;
+font-family: fangsong;
 
+}
+
+.menu p:hover{
+  cursor: pointer;
+  color: tomato;
+}
+.line{
+  padding: 10px;
+  font-size: 25px;
+  margin-left: 20px;
+}
+  
 
 @media only screen and (max-width: 600px) {
   .fa-bars {
