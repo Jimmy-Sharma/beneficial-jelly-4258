@@ -5,7 +5,7 @@ function navbar() {
       <a href="../pages/navMenu.html"><img src="https://banner2.cleanpng.com/20180628/zaz/kisspng-computer-icons-hamburger-button-menu-new-menu-5b34724be5a1f0.5796308115301637879406.jpg" alt="menuLogo" id="menuLogo"></a>
     </div>
     <div id="logo">
-      <a href="../index.html">
+      <a href="../Main_osama.html">
         <img src="Images/Zara Logo.jpg" alt="logo" id="logo">
       </a>   
     </div>
