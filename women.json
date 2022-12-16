@@ -1,0 +1,148 @@
+{
+    "women" : [
+        {
+            "name": "MIDI DRESS",
+            "price": 2990,
+            "detail": "Care for fiber: at least 25% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products.",
+            "disc":"Midi dress with a straight-cut neckline and exposed shoulders. Featuring a back slit at the hem and invisible zip fastening.",
+            "item":[
+                {
+                    "img1": "https://static.zara.net/photos///2022/I/0/1/p/3067/206/423/2/w/850/3067206423_2_4_1.jpg?ts=1660218541633",
+                    "img2": "https://static.zara.net/photos///2022/I/0/1/p/3067/206/423/2/w/850/3067206423_2_2_1.jpg?ts=1660218545774",
+                    "img3": "https://static.zara.net/photos///2022/I/0/1/p/3067/206/423/2/w/850/3067206423_2_3_1.jpg?ts=1660218542769",
+                    "img4": "https://static.zara.net/photos///2022/I/0/1/p/3067/206/423/2/w/850/3067206423_2_5_1.jpg?ts=1660218541357"
+                }
+            ]
+        },
+        {
+            "name": "HIGH-WAIST TROUSERS",
+            "price": 2590,
+            "detail": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans.",
+            "disc":"High-waist trousers with seam detail on the front and back. Front welt pockets. Front zip fly, inside button and metal hook fastening.",
+            "item":[
+                {
+                    "color": "white",
+                    "img1": "https://static.zara.net/photos///2022/I/0/1/p/7901/532/250/14/w/850/7901532250_1_1_1.jpg?ts=1666006509490",
+                    "img2": "https://static.zara.net/photos///2022/I/0/1/p/7901/532/250/14/w/850/7901532250_2_1_1.jpg?ts=1666006511739",
+                    "img3": "https://static.zara.net/photos///2022/I/0/1/p/7901/532/250/14/w/850/7901532250_2_3_1.jpg?ts=1666006511512",
+                    "img4": "https://static.zara.net/photos///2022/I/0/1/p/7612/584/250/2/w/850/7612584250_6_1_1.jpg?ts=1653322893246"
+                },
+                {
+                    "color": "pink",
+                    "img1": "https://static.zara.net/photos///2022/I/0/1/p/7901/532/829/12/w/850/7901532829_1_1_1.jpg?ts=1666006633962",
+                    "img2": "https://static.zara.net/photos///2022/I/0/1/p/7901/532/829/12/w/850/7901532829_2_1_1.jpg?ts=1666006631393",
+                    "img3": "https://static.zara.net/photos///2022/I/0/1/p/7901/532/829/12/w/850/7901532829_2_3_1.jpg?ts=1666006632607",
+                    "img4": "https://static.zara.net/photos///2022/I/0/1/p/7901/532/829/12/w/850/7901532829_2_4_1.jpg?ts=1666006633069"
+                }
+            ]
+        },
+        {
+            "name": "FELT TEXTURE COAT",
+            "price": 4990,
+            "detail": "We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. Thanks to the collaboration with our suppliers, we work to know the facilities and processes used to manufacture our garments in order to know the traceability of our products.",
+            "disc": "Open coat with a lapel collar and long sleeves. Bluish Pink marl",
+            "item":[
+                {
+                    "color": "blue",
+                    "img1": "https://static.zara.net/photos///2022/I/0/1/p/5070/420/420/2/w/850/5070420420_1_1_1.jpg?ts=1665496229597",
+                    "img2": "https://static.zara.net/photos///2022/I/0/1/p/5070/420/420/2/w/850/5070420420_2_4_1.jpg?ts=1665496234782",
+                    "img3": "https://static.zara.net/photos///2022/I/0/1/p/5070/420/420/2/w/850/5070420420_2_6_1.jpg?ts=1665496230938",
+                    "img4": "https://static.zara.net/photos///2022/I/0/1/p/5070/420/420/2/w/850/5070420420_2_5_1.jpg?ts=1665496230736"
+                },
+                {
+                    "color": "pink",
+                    "img1": "https://static.zara.net/photos///2022/I/0/1/p/5070/720/625/2/w/850/5070720625_1_1_1.jpg?ts=1662027852399",
+                    "img2": "https://static.zara.net/photos///2022/I/0/1/p/5070/720/625/2/w/850/5070720625_2_1_1.jpg?ts=1662027777088",
+                    "img3": "https://static.zara.net/photos///2022/I/0/1/p/5070/720/625/2/w/850/5070720625_2_4_1.jpg?ts=1662027777218",
+                    "img4": "https://static.zara.net/photos///2022/I/0/1/p/5070/720/625/2/w/850/5070720625_2_3_1.jpg?ts=1662027777418"
+                }
+            ]
+        },
+        {
+            "name": "WOOL BLEND COAT WITH STUDS",
+            "price": 13990,
+            "detail": "We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals.",
+            "disc":"Cropped coat made of a wool blend. Lapel collar and long sleeves. Side pockets. Matching stud appliqué details. Lining. Double-breasted buttoned front.",
+            "item":[
+                {
+                    "img1": "https://static.zara.net/photos///2022/I/0/1/p/8539/744/800/2/w/850/8539744800_1_1_1.jpg?ts=1666181071413",
+                    "img2": "https://static.zara.net/photos///2022/I/0/1/p/8539/744/800/2/w/850/8539744800_2_2_1.jpg?ts=1666181070194",
+                    "img3": "https://static.zara.net/photos///2022/I/0/1/p/8539/744/800/2/w/850/8539744800_2_1_1.jpg?ts=1666170896174",
+                    "img4": "https://static.zara.net/photos///2022/I/0/1/p/8539/744/800/2/w/850/8539744800_2_3_1.jpg?ts=1666170901337"
+                }
+            ]
+        },
+        {
+            "name": "WIDE-LEG TRF JEANS",
+            "price": 2990,
+            "detail": "Care for fiber & water: at least 80% ecologically grown cotton & 20% recycled cotton. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products.",
+            "disc":"Rigid high-rise jeans with a five-pocket design. Extra-long wide legs. Seamless hems. Zip fly and metal top button fastening.",
+            "item":[
+                {
+                    "img1": "https://static.zara.net/photos///2022/I/0/1/p/6688/323/400/2/w/850/6688323400_1_1_1.jpg?ts=1666354942644",
+                    "img2": "https://static.zara.net/photos///2022/I/0/1/p/6688/323/400/2/w/850/6688323400_2_1_1.jpg?ts=1666354932797",
+                    "img3": "https://static.zara.net/photos///2022/I/0/1/p/6688/323/400/2/w/850/6688323400_2_4_1.jpg?ts=1666354938362",
+                    "img4": "https://static.zara.net/photos///2022/I/0/1/p/6688/323/400/2/w/850/6688323400_2_3_1.jpg?ts=1666354932358"
+                }
+            ]
+        },
+        {
+            "name": "ASYMMETRIC TOP WITH ZIP",
+            "price": 2890,
+            "detail": "Care for fiber: at least 30% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products.",
+            "disc":"Top with a straight neckline and exposed shoulders. Pleated detail. Asymmetric hem. Metal zip fastening on the front.",
+            "item":[
+                {
+                    "img1": "https://static.zara.net/photos///2022/I/0/1/p/3067/144/800/2/w/850/3067144800_1_1_1.jpg?ts=1664380362776",
+                    "img2": "https://static.zara.net/photos///2022/I/0/1/p/3067/144/800/2/w/850/3067144800_2_1_1.jpg?ts=1664380358578",
+                    "img3": "https://static.zara.net/photos///2022/I/0/1/p/3067/144/800/2/w/850/3067144800_2_2_1.jpg?ts=1664380340511",
+                    "img4": "https://static.zara.net/photos///2022/I/0/1/p/3067/144/800/2/w/850/3067144800_2_3_1.jpg?ts=1664380340601"
+                }
+            ]
+        },
+        {
+            "name": "WOOL BLEND FITTED COAT",
+            "price":  7990,
+            "detail": "We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. Thanks to the collaboration with our suppliers, we work to know the facilities and processes used to manufacture our garments in order to know the traceability of our products.",
+            "disc":"Collared coat with long sleeves and shoulder pads. Front welt pockets. Back vent at the hem. Fastens at the front with buttons.",
+            "item":[
+                {
+                    "color": "black",
+                    "img1": "https://static.zara.net/photos///2022/I/0/1/p/8496/298/800/12/w/850/8496298800_1_1_1.jpg?ts=1667400199707",
+                    "img2": "https://static.zara.net/photos///2022/I/0/1/p/8496/298/800/12/w/850/8496298800_2_1_1.jpg?ts=1667400198963",
+                    "img3": "https://static.zara.net/photos///2022/I/0/1/p/8496/298/800/12/w/850/8496298800_2_3_1.jpg?ts=1667400200590",
+                    "img4": "https://static.zara.net/photos///2022/I/0/1/p/8496/298/800/2/w/850/8496298800_6_1_1.jpg?ts=1663330944129"
+                },
+                {
+                    "color": "#A37E5E",
+                    "img1": "https://static.zara.net/photos///2022/I/0/1/p/8496/298/704/2/w/850/8496298704_2_5_1.jpg?ts=1664440600485",
+                    "img2": "https://static.zara.net/photos///2022/I/0/1/p/8496/298/704/2/w/850/8496298704_2_6_1.jpg?ts=1664440600565",
+                    "img3": "https://static.zara.net/photos///2022/I/0/1/p/8496/298/704/2/w/850/8496298704_2_1_1.jpg?ts=1664369557924",
+                    "img4": "https://static.zara.net/photos///2022/I/0/1/p/8496/298/704/2/w/850/8496298704_6_1_1.jpg?ts=1664355228656"
+                }
+            ]
+        },
+        {
+            "name": "TROUSERS WITH LINED BELT",
+            "price": 2990,
+            "detail": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans.",
+            "disc":"High-waist trousers with a matching lined belt. Featuring front pockets, false welt back pockets and metal hook, inside button and zip fly fastening.",
+            "item":[
+                {
+                    "color": "black",
+                    "img1": "https://static.zara.net/photos///2022/I/0/1/p/4387/630/800/17/w/850/4387630800_1_1_1.jpg?ts=1663314812380",
+                    "img2": "https://static.zara.net/photos///2021/I/0/1/p/8034/789/800/2/w/850/8034789800_6_1_1.jpg?ts=1623925508543",
+                    "img3": "https://static.zara.net/photos///2021/I/0/1/p/8034/789/800/2/w/850/8034789800_6_2_1.jpg?ts=1623925513698",
+                    "img4": "https://static.zara.net/photos///2021/I/0/1/p/8034/789/800/2/w/850/8034789800_6_3_1.jpg?ts=1623925531833"
+                },
+                {
+                    "color": "#12995B",
+                    "img1": "https://static.zara.net/photos///2022/I/0/1/p/4387/630/500/12/w/850/4387630500_1_1_1.jpg?ts=1662046403557",
+                    "img2": "https://static.zara.net/photos///2022/I/0/1/p/4387/630/500/12/w/850/4387630500_2_1_1.jpg?ts=1662046395795",
+                    "img3": "https://static.zara.net/photos///2022/I/0/1/p/4387/630/500/12/w/850/4387630500_2_2_1.jpg?ts=1662046398552",
+                    "img4": "https://static.zara.net/photos///2022/I/0/1/p/4387/630/500/12/w/850/4387630500_2_4_1.jpg?ts=1662046396914"
+                }
+            ]
+        }
+    ]
+}

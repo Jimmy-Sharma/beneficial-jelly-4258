@@ -13,6 +13,8 @@
   display: flex;
   align-items: center;
   color: rgb(52, 52, 52);
+  backdrop-filter: blur(45px);
+   background: transparent;
   position: fixed;
   top: 0;
   left: 0;
@@ -76,6 +78,24 @@ font-family: fangsong;
   padding: 10px;
   font-size: 25px;
   margin-left: 20px;
+}
+.logo img {
+  /* height: 200px; */
+  width: 200px;
+
+  object-position: center center;
+}
+.tag{
+  display: flex;
+  font-weight: 600;
+  text-decoration: none;
+  gap: 10px;
+  color: black;   
+  align-items: center;
+border: none;
+background: transparent;
+cursor: pointer;
+
 }
   
 

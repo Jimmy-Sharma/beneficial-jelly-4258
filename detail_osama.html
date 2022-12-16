@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="navOsama.css">
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+      integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
+      crossorigin="anonymous"
+    />
+    <title>Document</title>
+</head>
+<style>
+    #parent{
+        /* display: grid; */
+        /* grid-template-columns: repeat(3,1fr); */
+        display: flex;
+        border: 1px solid red;
+        justify-content: space-evenly;
+        gap: 30px;
+        margin-top: 100px;
+    }
+    .child-div{
+        border: 1px solid green;
+        /* width:max-content; */
+    }
+
+      .child-div>div {
+        display: grid;
+        grid-template-columns:100px 100px 100px 100px;
+        /* column-gap: 20px; */
+        gap: 10px;
+        justify-content: center;
+        border: 1px solid red;
+        margin: auto;
+      }
+      .minbox {
+        grid-column: 1/4;
+        grid-row: 1/4;
+      }
+      img{
+        width: 100%;
+      }
+      .bag{
+        padding: 20px 50px;
+        color: white;
+        background: black;
+        cursor: pointer;
+        width: 100%;
+      }
+      .content{
+        align-self: center;
+        width: 20%;
+
+      }
+      .cart{
+        width: 20%;
+      }
+      
+    
+</style>
+<body>
+    <nav id="navbar" class="container">
+     
+    </nav>
+   
+
+    <div id="parent">
+        <div class="child-div content" >
+            <h3>MATERIAL,CARE AND ORIGIN</h3>
+<h3>JOIN LIFE</h3>
+<P>Care for fiber: at least 25% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products.</P>
+<a href="#">Read more</a>
+        </div>
+        <div class="child-div">
+            <div>
+                <div class="img-box minbox">
+                  <img
+                    class="p_image"
+                    src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
+                    alt=""
+                  />
+                </div>
+                <div class="img-box">
+                  <img
+                    class="p_image"
+                    src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
+                    alt=""
+                  />
+                </div>
+                <div class="img-box">
+                  <img
+                    class="p_image"
+                    src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
+                    alt=""
+                  />
+                </div>
+                <div class="img-box">
+                  <img
+                    class="p_image"
+                    src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
+                    alt=""
+                  />
+                </div>
+              </div>
+        </div>
+        <div class="child-div cart" >
+            <h2>HIGH-WAIST TROUSERS</h2>
+            <p>Midi dress with a straight-cut neckline and exposed shoulders. Featuring a back slit at the hem and invisible zip fastening.</p>
+            <p>BLACK</p>
+            <h3>1290</h3>
+            <P>MRP incl. of all taxes</P>
+                <p>S(UK S)</p>
+                <p>M(UK M)</p>
+                <p>L(UK L)</p>
+                <p>XL(UK XL)</p>
+                <p>XXL(UK XXL</p>
+            <button onclick="cart()" class="bag">ADD TO BAG</button>
+        </div>
+    </div>
+    
+</body>
+</html>
+<script>
+    function cart() {
+        window.location.href="cart.html"
+    }
+</script>
+<script src="navOsama.js"></script>
