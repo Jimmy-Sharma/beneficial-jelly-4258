@@ -1,0 +1,560 @@
+{
+    "kids" : [
+        {
+            "name": "DENIM WORKER JACKET",
+            "price": 2790,
+            "detail" : "Collared denim jacket with long sleeves. Button-up front. Contrast front pockets.",
+            "disc": "MADE TO BE USED MORE, MADE TO BE MADE AGAIN AND MADE FROM SAFE AND RECYCLED OR RENEWABLE MATERIALS.THE JEANS REDESIGN REIMAGINES HISTORY’S MOST ICONIC FASHION ITEM TO TRANSCEND THE HERE AND NOW - MAKING JEANS THAT ARE MORE RESPONSIBLE AND EXTENDING THEIR LIFE CYCLE",
+            "item":[
+                {
+                    "color": "blue",
+                    "img1": "https://static.zara.net/photos///2023/V/0/3/p/3643/762/427/302/w/750/3643762427_1_1_1.jpg?ts=1670924429768",
+                    "img2": "https://static.zara.net/photos///2023/V/0/3/p/4302/712/400/2/w/27/4302712400_6_1_1.jpg?ts=1669220404505",
+                    "img3": "https://static.zara.net/photos///2023/V/0/3/p/4302/712/400/2/w/27/4302712400_6_2_1.jpg?ts=1669220409694",
+                    "img4": "https://static.zara.net/photos///2023/V/0/3/p/4302/712/400/2/w/27/4302712400_6_3_1.jpg?ts=1669220417479"
+                }
+            ]
+        },
+        {
+            "name": "BASIC T-SHIRT",
+            "price": 550,
+            "detail": "Round neck T-shirt with short sleeves.",
+            "disc":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our product",
+            "item":[
+                {
+                    "color": "white",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/9006/701/250/2/w/750/9006701250_6_1_1.jpg?ts=1658245608483",
+                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/9006/701/250/2/w/27/9006701250_6_3_1.jpg?ts=1658245620574",
+                    "img4": "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/27/sustainability-extrainfo-label-1001_0.jpg?ts=1626188266479"
+                },
+                {
+                    "color": "red",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/9006/701/600/2/w/27/9006701600_6_3_1.jpg?ts=1665417864124",
+                    "img4": "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/27/sustainability-extrainfo-label-1001_0.jpg?ts=1626188266479"
+                },
+                {
+                    "color": "pink",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img3": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img4": "https://static.zara.net/photos///contents/cm/sustainability/extrainfo/w/27/sustainability-extrainfo-label-1001_0.jpg?ts=1626188266479"
+                }
+            ]
+        },
+        {
+            "name": "PUFFER COAT WITH RUBBERISED DETAIL",
+            "price": 2490,
+            "detail": "Rubberised puffer coat featuring a hood and long sleeves with elastic trims. Featuring a zip-up front fastening hidden by a snap-button placket. Front pockets",
+            "disc":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments",
+            "item":[
+                {
+                    "color": "pink",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/653/2/w/27/3121705653_6_1_1.jpg?ts=1668167478321",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/653/2/w/27/3121705653_6_2_1.jpg?ts=1668167476386",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/653/2/w/27/3121705653_6_3_1.jpg?ts=1668167476454",
+                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/653/2/w/27/3121705653_6_4_1.jpg?ts=1668167478525"
+                },
+                {
+                    "color": "black",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/800/2/w/27/3121705800_6_1_1.jpg?ts=1668683463588",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/800/2/w/27/3121705800_6_2_1.jpg?ts=1668683464366",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/800/2/w/27/3121705800_6_3_1.jpg?ts=1662538712655",
+                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/800/2/w/27/3121705800_6_4_1.jpg?ts=1662538718596"
+                }
+            ]
+        },
+        {
+            "name": "KIDS/ LOAFERS WITH TRACK SOLES",
+            "price": 2990,
+            "detail": "Loafers with a shiny finish. 100% cotton insole and lining. Rubber track sole",
+            "disc":" We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals.",
+            "item":[
+                {
+                    "color": "black",
+                    "img1": "https://static.zara.net/photos///2022/I/1/3/p/2503/030/040/2/w/27/2503030040_6_1_1.jpg?ts=1657192710648",
+                    "img2": "https://static.zara.net/photos///2022/I/1/3/p/2503/030/040/2/w/27/2503030040_6_2_1.jpg?ts=1657192708564",
+                    "img3": "https://static.zara.net/photos///2022/I/1/3/p/2503/030/040/2/w/27/2503030040_6_3_1.jpg?ts=1657192711478",
+                    "img4": "https://static.zara.net/photos///2022/I/1/3/p/2503/030/040/2/w/27/2503030040_6_4_1.jpg?ts=1657192710186"
+                }
+            ]
+        },
+        {
+            "name": "KIDS/ CROCHET SHOPPER BAG",
+            "price": 2590,
+            "detail": "100% cotton crochet tote bag. Slogan detail. Two handles.",
+            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. ",
+            "item":[
+                {
+                    "color": "white",
+                    "img1": "https://static.zara.net/photos///2022/V/1/3/p/1135/930/002/2/w/27/1135930002_6_1_1.jpg?ts=1642146375187",
+                    "img2": "https://static.zara.net/photos///2022/V/1/3/p/1135/930/002/2/w/27/1135930002_6_2_1.jpg?ts=1642146380837",
+                    "img3": "https://static.zara.net/photos///2022/V/1/3/p/1135/930/002/2/w/27/1135930002_6_3_1.jpg?ts=1642146373436",
+                    "img4": "https://static.zara.net/photos///2022/V/1/3/p/1135/930/002/2/w/27/1135930002_6_4_1.jpg?ts=1642146373546"
+                }
+            ]
+        },
+        {
+            "name": "WAVY SUNGLASSES",
+            "price": 1090,
+            "disc": "Square sunglasses with square resin frame. 100% UV PROTECTION. CATEGORY 3.",
+            "detail": "We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. ",
+            
+            "item":[
+                {
+                    "color": "blue",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/0475/746/400/2/w/27/0475746400_6_1_1.jpg?ts=1655977342658",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/0475/746/400/2/w/27/0475746400_6_2_1.jpg?ts=1655977343402",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/0475/746/400/2/w/27/0475746400_6_3_1.jpg?ts=1655977357890",
+                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/0475/746/400/2/w/27/0475746400_6_5_1.jpg?ts=1657181197799"
+                },
+                {
+                    "color": "pink",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/0475/746/620/2/w/27/0475746620_6_1_1.jpg?ts=1656332933172",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/0475/746/620/2/w/27/0475746620_6_2_1.jpg?ts=1656332934192",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/0475/746/620/2/w/27/0475746620_6_3_1.jpg?ts=1656332933406",
+                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/0475/746/620/2/w/27/0475746620_6_5_1.jpg?ts=1657181199174"
+                }
+            ]
+        },
+        {
+            "name": "PACK OF FOUR SEASHELL EARRINGS",
+            "price": 590,
+            "detail": "Pack of four hoop earrings with push-back closure and seashell appliqués. This pack is indivisible and must be returned complete. Contains small pieces. Not recommended for",
+            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals",
+            "item":[
+                {
+                    "color": "pink",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/0120/649/620/2/w/27/0120649620_6_1_1.jpg?ts=1654073865881",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/0120/649/620/2/w/27/0120649620_6_2_1.jpg?ts=1654073866093",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/0120/649/620/2/w/27/0120649620_6_5_1.jpg?ts=1657526317504"
+                }
+            ]
+        },
+        {
+            "name": "3-PACK OF PLAIN T-SHIRTS",
+            "price": 1490,
+            "detail": " Pack of 3 plain long sleeve T-shirts with a round neckline. This pack is indivisible and must be returned complete.",
+            "disc":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
+            "item":[
+                {
+                    "color": "green",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/1887/792/120/2/w/27/1887792120_6_3_1.jpg?ts=1662109480452",
+                    "img4": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833"
+                },
+                {
+                    "color": "blue",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/1887/792/112/2/w/27/1887792112_6_1_1.jpg?ts=1662109479887",
+                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/1887/792/112/2/w/27/1887792112_6_3_1.jpg?ts=1662109480302",
+                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/1887/792/112/2/w/27/1887792112_6_4_1.jpg?ts=1662109490824"
+                },
+                {
+                    "color": "white",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/1887/792/113/2/w/27/1887792113_6_2_1.jpg?ts=1662109479675",
+                    "img3": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/1887/792/113/2/w/27/1887792113_6_4_1.jpg?ts=1662109489583"
+                }
+            ]
+        },
+        {
+            "name": "KIDS/ LACE-UP SKATE SNEAKERS",
+            "price": 1990,
+            "detail": "Cotton sneakers with adjustable lace-up fastening. Back pull tab for slipping on with ease. 100% cotton insole and lining. Rubber sole.",
+            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nation",
+            "item":[
+                {
+                    "color": "white",
+                    "img1": "https://static.zara.net/photos///2022/I/1/3/p/4430/030/002/2/w/27/4430030002_6_1_1.jpg?ts=1661872348351",
+                    "img2": "https://static.zara.net/photos///2022/I/1/3/p/4430/030/002/2/w/27/4430030002_6_2_1.jpg?ts=1661872350749",
+                    "img3": "https://static.zara.net/photos///2022/I/1/3/p/4430/030/002/2/w/27/4430030002_6_3_1.jpg?ts=1661872351751",
+                    "img4": "https://static.zara.net/photos///2022/I/1/3/p/4430/030/002/2/w/27/4430030002_6_4_1.jpg?ts=1661872350887"
+                },
+                {
+                    "color": "black",
+                    "img1": "https://static.zara.net/photos///2022/I/1/3/p/4430/030/040/2/w/27/4430030040_6_1_1.jpg?ts=1661869169392",
+                    "img2": "https://static.zara.net/photos///2022/I/1/3/p/4430/030/040/2/w/27/4430030040_6_2_1.jpg?ts=1661869170114",
+                    "img3": "https://static.zara.net/photos///2022/I/1/3/p/4430/030/040/2/w/27/4430030040_6_3_1.jpg?ts=1661869170480",
+                    "img4": "https://static.zara.net/photos///2022/I/1/3/p/4430/030/040/2/w/27/4430030040_6_4_1.jpg?ts=1661869170320"
+                }
+            ]
+        },
+        {
+            "name": "KIDS/ 3-PACK OF BRIEFS",
+            "price": 990,
+            "detail": "Pack of three pairs of briefs with an elastic waistband.",
+            "disc":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
+            "item":[
+                {
+                    "color": "white",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img3": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/8501/791/250/2/w/27/8501791250_6_4_1.jpg?ts=1660305371809"
+                }
+            ]
+        },
+        {
+            "name": "KIDS/ RIBBED BEAR PYJAMAS",
+            "price": 1590,
+            "detail": "Two-piece pyjamas. T-shirt with a round neck and long sleeves. Long trousers with an elasticated waistband and cuffed hems. This pack is indivisible and must be returned complete",
+            "disc":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
+            "item":[
+                {
+                    "color": "blue",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/8501/783/514/303/w/27/8501783514_1_1_1.jpg?ts=1664364253459",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/8501/783/514/2/w/27/8501783514_6_1_1.jpg?ts=1661502092945",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/8501/783/514/2/w/27/8501783514_6_2_1.jpg?ts=1661502093653",
+                    "img4": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833"
+                }
+            ]
+        },
+        {
+            "name": "FAUX FUR BEAR BLANKET",
+            "price": 1790,
+            "detail": "Faux fur blanket with a bear print.Measurements: 140 cm / 55.1″ x 100 cm / 39.3″",
+            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals.",
+            "item":[
+                {
+                    "color": "blue",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/5644/788/514/2/w/27/5644788514_6_1_1.jpg?ts=1664356021334",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/5644/788/514/2/w/27/5644788514_6_2_1.jpg?ts=1664356039269",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/5644/788/514/2/w/27/5644788514_6_3_1.jpg?ts=1664356037405",
+                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/5644/788/514/2/w/27/5644788514_6_5_1.jpg?ts=1664356029665"
+                }
+            ]
+        },
+        {
+            "name": "CHERRY WATERMELON ICE 40 ML / 1.35 OZ",
+            "price": 1290,
+            "detail": "ZARA CHERRY WATERMELON ICE EDT 40 ML (1.35 FL. OZ).",
+            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Natios Sustainable Development Goals.",
+            "item":[{
+
+                    "color": "pink",
+                    "img1": "https://static.zara.net/photos///2020/I/2/3/p/0310/167/999/2/w/27/0310167999_1_1_1.jpg?ts=1606322482041",
+                    "img2": "https://static.zara.net/photos///2020/I/2/3/p/0310/167/999/2/w/27/0310167999_2_1_1.jpg?ts=1606322454367",
+                    "img3": "https://static.zara.net/photos///2020/I/2/3/p/0310/167/999/2/w/27/0310167999_2_2_1.jpg?ts=1606322473335",
+                    "img4": "https://static.zara.net/photos///2020/I/2/3/p/0310/167/999/2/w/27/0310167999_2_3_1.jpg?ts=1606487870878"
+                }
+            ]
+        },
+        {
+            "name": "WINDPROOF AND WATER-REPELLENT APRÈS SKI QUILTED CARGO TROUSERS",
+            "price": 3790,
+            "detail": "Wind-proof and water-repellent quilted cargo trousers featuring an elasticated waistband, front snap-button fastening, belt appliqué, front pockets, rear patch pockets, leg pockets with flaps and fleece lining",
+            "disc":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.To assess compliance, we have developed a programme of audits and continuous improvement plans.",
+            "item":[
+                {
+                    "color": "pink",
+                    "img1": "https://static.zara.net/photos///2023/V/0/3/p/0562/615/756/103/w/27/0562615756_1_1_1.jpg?ts=1670426169410",
+                    "img2": "https://static.zara.net/photos///2023/V/0/3/p/0562/616/756/2/w/27/0562616756_6_1_1.jpg?ts=1670590067941",
+                    "img3": "https://static.zara.net/photos///2023/V/0/3/p/0562/616/756/2/w/27/0562616756_6_2_1.jpg?ts=1670590068086",
+                    "img4": "https://static.zara.net/photos///2023/V/0/3/p/0562/616/756/2/w/27/0562616756_6_3_1.jpg?ts=1670590068435"
+                }
+            ]
+        },
+        {
+            "name": "KIDS/ WATER-REPELLENT PADDED BOOTS",
+            "price": 3290,
+            "detail": "Padded boots in contrast materials. Adjustable lace-up fastening and side zip fastening. Front and back pull tabs for slipping on with ease. Memory-effect insole and faux fur lining. Chunky rubber sole.",
+            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals",
+            "item":[
+                {
+                    "color": "grey",
+                    "img1": "https://static.zara.net/photos///2022/I/1/3/p/4293/030/802/2/w/27/4293030802_6_1_1.jpg?ts=1667206373379",
+                    "img2": "https://static.zara.net/photos///2022/I/1/3/p/4293/030/802/2/w/27/4293030802_6_2_1.jpg?ts=1667206373461",
+                    "img3": "https://static.zara.net/photos///2022/I/1/3/p/4293/030/802/2/w/27/4293030802_6_3_1.jpg?ts=1667206373109",
+                    "img4": "https://static.zara.net/photos///2022/I/1/3/p/4293/030/802/2/w/27/4293030802_6_4_1.jpg?ts=1667206373038"
+                },
+                {
+                    "color": "blue",
+                    "img1": "https://static.zara.net/photos///2022/I/1/3/p/4293/030/400/2/w/27/4293030400_6_1_1.jpg?ts=1667206370976",
+                    "img2": "https://static.zara.net/photos///2022/I/1/3/p/4293/030/400/2/w/27/4293030400_6_2_1.jpg?ts=1667206371717",
+                    "img3": "https://static.zara.net/photos///2022/I/1/3/p/4293/030/400/2/w/27/4293030400_6_3_1.jpg?ts=1667206372061",
+                    "img4": "https://static.zara.net/photos///2022/I/1/3/p/4293/030/400/2/w/27/4293030400_6_4_1.jpg?ts=1667206372154"
+                }
+            ]
+        },
+        {
+            "name": "VELVET BODYSUIT WITH SEQUINS",
+            "price": 1790,
+            "detail": "Round neck velvet bodysuit featuring short puff sleeves in contrasting tulle fabric with sequin appliqués and elastic trims. Buttoned teardrop opening at the back and snap-button fastening at the bottom.",
+            "disc":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans.",
+            "item":[
+                {
+                    "color": "black",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/8741/700/800/103/w/27/8741700800_1_1_1.jpg?ts=1669806553762",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/8741/700/800/2/w/27/8741700800_6_1_1.jpg?ts=1667396807494",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/8741/700/800/2/w/27/8741700800_6_2_1.jpg?ts=1667396808643",
+                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/8741/700/800/2/w/27/8741700800_6_3_1.jpg?ts=1667396810103"
+                }
+            ]
+        },
+        {
+            "name": "PUFFER COAT WITH RUBBERISED DETAIL",
+            "price": 2490,
+            "detail": "Rubberised puffer coat featuring a hood and long sleeves with elastic trims. Featuring a zip-up front fastening hidden by a snap-button placket. Front pockets.",
+            "disc":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans",
+            "item":[
+                {
+                    "color": "black",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/800/2/w/27/3121705800_6_1_1.jpg?ts=1668683463588",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/800/2/w/27/3121705800_6_2_1.jpg?ts=1668683464366",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/800/2/w/27/3121705800_6_3_1.jpg?ts=1662538712655",
+                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/800/2/w/27/3121705800_6_4_1.jpg?ts=1662538718596"
+                },
+                {
+                    "color": "pink",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/653/2/w/27/3121705653_6_1_1.jpg?ts=1668167478321",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/653/2/w/27/3121705653_6_2_1.jpg?ts=1668167476386",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/653/2/w/27/3121705653_6_4_1.jpg?ts=1668167478525",
+                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/653/2/w/750/3121705653_6_5_1.jpg?ts=1668167477526"
+                },
+                {
+                    "color": "brown",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/743/2/w/27/3121705743_6_1_1.jpg?ts=1668683464833",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/743/2/w/27/3121705743_6_2_1.jpg?ts=1668683465020",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/743/2/w/27/3121705743_6_3_1.jpg?ts=1662538710784",
+                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/3121/705/743/2/w/27/3121705743_6_4_1.jpg?ts=1662538717602"
+                }
+            ]
+        },
+        {
+            "name": "KIDS/ CONTRAST CROSSBODY BAG",
+            "price": 1690,
+            "detail": "Crossbody bag in a combination of materials and colours with zip closure. Front flap pocket and clip closure. Two top handles and one adjustable shoulder strap.",
+            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. ",
+            "item":[
+                {
+                    "color": "pink",
+                    "img1": "https://static.zara.net/photos///2022/I/1/3/p/1116/030/202/2/w/27/1116030202_6_1_1.jpg?ts=1660118457633",
+                    "img2": "https://static.zara.net/photos///2022/I/1/3/p/1116/030/202/2/w/27/1116030202_6_2_1.jpg?ts=1660118470508",
+                    "img3": "https://static.zara.net/photos///2022/I/1/3/p/1116/030/202/2/w/27/1116030202_6_3_1.jpg?ts=1660118470149",
+                    "img4": "https://static.zara.net/photos///2022/I/1/3/p/1116/030/202/2/w/27/1116030202_6_4_1.jpg?ts=1660118470927"
+                }
+            ]
+        },
+        {
+            "name": "KIDS/ KNIT WRAP NECK WARMER",
+            "price": 890,
+            "detail": "Knit wrap neck warmer.",
+            "disc":"Care for fiber & water: at least 50% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environm",
+            "item":[
+                {
+                    "color": "brown",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/4701/797/709/2/w/27/4701797709_6_5_1.jpg?ts=1661500652124"
+                },
+                {
+                    "color": "blue",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/4701/797/401/2/w/27/4701797401_6_5_1.jpg?ts=1661500647937"
+                },
+                {
+                    "color": "black",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/4701/797/800/2/w/27/4701797800_6_2_1.jpg?ts=1662720503868",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/4701/797/800/2/w/27/4701797800_6_5_1.jpg?ts=1669737726031"
+                },
+                {
+                    "color": "grey",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/4701/797/802/2/w/27/4701797802_6_1_1.jpg?ts=1661502093005",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/4701/797/802/2/w/27/4701797802_6_2_1.jpg?ts=1661502094876",
+                    "img3": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833"
+                }
+            ]
+        },
+        {
+            "name": "KIDS/ FAUX FUR NECK WARMER",
+            "price": 1090,
+            "detail": "Faux fur snood.",
+            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. ",
+            "item":[
+                {
+                    "color": "black",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/3920/737/800/2/w/27/3920737800_6_1_1.jpg?ts=1666279291352",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/3920/737/800/2/w/27/3920737800_6_2_1.jpg?ts=1666279311531",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/3920/737/800/2/w/27/3920737800_6_5_1.jpg?ts=1666279291747"
+                },
+                {
+                    "color": "brown",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/3920/737/737/2/w/27/3920737737_6_1_1.jpg?ts=1666279291449",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/3920/737/737/2/w/27/3920737737_6_2_1.jpg?ts=1666279311937",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/3920/737/737/2/w/27/3920737737_6_5_1.jpg?ts=1666279291311"
+                }
+            ]
+        },
+        {
+            "name": "ANIME T-SHIRT",
+            "price": 890,
+            "detail": "Long sleeve T-shirt with a round neckline.",
+            "disc":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products.",
+            "item":[
+                {
+                    "color": "black",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/2614/705/800/2/w/27/2614705800_6_1_1.jpg?ts=1667464246167",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/2614/705/800/2/w/27/2614705800_6_2_1.jpg?ts=1667464252908",
+                    "img4": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833"
+                }
+            ]
+        },
+        {
+            "name": "FRIENDS TOGETHER © BEAR BESTIES T-SHIRT",
+            "price": 990,
+            "detail": "Long sleeve T-shirt with a round neckline. Featuring a © BEAR BESTIES print on the front.",
+            "disc":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products",
+            "item":[
+                {
+                    "color": "pink",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/3037/722/612/2/w/27/3037722612_6_3_1.jpg?ts=1660301080892"
+                }
+            ]
+        },
+        {
+            "name": "SPICE GIRLS © T-SHIRT",
+            "price": 1290,
+            "detail": "Long sleeve top with a round neckline and ribbed trims.",
+            "disc":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products.",
+            "item":[
+                {
+                    "color": "white",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/9000/731/250/2/w/27/9000731250_6_1_1.jpg?ts=1663829314297",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/9000/731/250/2/w/27/9000731250_6_2_1.jpg?ts=1663829316426",
+                    "img4": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833"
+                }
+            ]
+        },
+        {
+            "name": "SPICE GIRLS © HOODIE",
+            "price": 2290,
+            "detail": "Hoodie with long sleeves and ribbed trims. SPICE GIRLS © print",
+            "disc":"Care for fiber: at least 45% recycled cotton & 45% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products",
+            "item":[
+                {
+                    "color": "black",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img3": "https://static.zara.net/photos///2022/I/0/3/p/1277/704/800/2/w/27/1277704800_6_3_1.jpg?ts=1663775685032",
+                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/1277/704/800/102/w/27/1277704800_1_1_1.jpg?ts=1664523875899"
+                }
+            ]
+        },
+        {
+            "name": "RIPPED STRAIGHT FIT JEANS",
+            "price": "1990",
+            "detail": "Straight fit jeans with an adjustable inner waistband and front button fastening. Five-pocket design. Ripped detail.",
+            "disc":"Care for water: produced using less water.We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
+            "item":[
+                {
+                    "color": "grey",
+                    "img1": "https://static.zara.net/photos///2022/I/0/3/p/1879/701/400/2/w/27/1879701400_6_1_1.jpg?ts=1659455506567",
+                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img3": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img4": "https://static.zara.net/photos///2022/I/0/3/p/1879/701/400/102/w/27/1879701400_1_1_1.jpg?ts=1660133651942"
+                },
+                {
+                    "color": "blue",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///2022/I/0/3/p/1879/701/407/2/w/27/1879701407_6_3_1.jpg?ts=1660144182771",
+                    "img3": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img4": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833"
+                }
+            ]
+        },
+        {
+            "name": "KNIT CARDIGAN",
+            "price": 2490,
+            "detail": " Knit cardigan featuring a round neck and long sleeves with cuffs. Button-up front",
+            "disc":"Care for fiber: at least 50% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
+            "item":[
+                {
+                    "color": "purple",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///2023/V/0/3/p/1473/720/611/2/w/27/1473720611_6_1_1.jpg?ts=1668167587905",
+                    "img3": "https://static.zara.net/photos///2023/V/0/3/p/1473/720/611/2/w/27/1473720611_6_2_1.jpg?ts=1668167587832",
+                    "img4": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833"
+                },
+                {
+                    "color": "brown",
+                    "img1": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img2": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img3": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-kids-ctx/joinlife-kids-large.svg?ts=1611920113833",
+                    "img4": "https://static.zara.net/photos///2023/V/0/3/p/1473/720/732/2/w/27/1473720732_6_3_1.jpg?ts=1668167589633"
+                }
+            ]
+        },
+        {
+            "name": "METALLIC PUFFER SKI JACKET",
+            "price": 6590, 
+            "detail": "Puffer jacket with wraparound collar and long cuffed sleeves with ski pass pocket. Features injected zip fastening at the front with snap buttons hidden by a placket, front and inside grommet slot for headphone cables and contrast",
+            "disc":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans.",
+            "item":[
+                {
+                    "color": "grey",
+                    "img1": "https://static.zara.net/photos///2023/V/0/3/p/0562/602/836/102/w/27/0562602836_1_1_1.jpg?ts=1670426167514",
+                    "img2": "https://static.zara.net/photos///2023/V/0/3/p/0562/602/836/2/w/27/0562602836_6_1_1.jpg?ts=1669985898903",
+                    "img3": "https://static.zara.net/photos///2023/V/0/3/p/0562/602/836/2/w/27/0562602836_6_2_1.jpg?ts=1669985899018",
+                    "img4": "https://static.zara.net/photos///2023/V/0/3/p/0562/602/836/2/w/27/0562602836_6_4_1.jpg?ts=1669985900871"
+                }
+            ]
+        },
+        {
+            "name": "WIND-PROOF AND WATER-REPELLENT COLOUR BLOCK QUILTED SNOW DUNGAREES",
+            "price": 5590,
+            "detail": "Wind-proof and water-repellent flared quilted dungarees featuring a straight neckline and adjustable elastic straps. Injected zip-up front. Vents at the hems with zip fastening and cuffs for protection against the snow. Fleece lining.",
+            "disc":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans.",
+            "item":[
+                {
+                    "color": "purple",
+                    "img1": "https://static.zara.net/photos///2023/V/0/1/p/0562/603/611/2/w/27/0562603611_2_1_1.jpg?ts=1671022065016",
+                    "img2": "https://static.zara.net/photos///2023/V/0/1/p/0562/603/611/2/w/27/0562603611_2_2_1.jpg?ts=1671022066105",
+                    "img3": "https://static.zara.net/photos///2023/V/0/3/p/0562/603/611/2/w/27/0562603611_6_1_1.jpg?ts=1669882402672",
+                    "img4": "https://static.zara.net/photos///2023/V/0/3/p/0562/603/611/2/w/27/0562603611_6_2_1.jpg?ts=1669882402687"
+                }
+            ]
+        },
+        {
+            "name": "PADDED SKI JUMPSUIT",
+            "price": 5590,
+            "detail": "Padded jumpsuit with hood and wraparound collar with hook-and-loop fastening. Zip-up front hidden by a snap-button placket. Adjustable elastic waist. Front pockets. Elastic c",
+            "disc":" We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans.",
+            "item":[
+                {
+                    "color": "purple",
+                    "img1": "https://static.zara.net/photos///2023/V/0/3/p/5644/605/612/102/w/27/5644605612_1_1_1.jpg?ts=1670426168352",
+                    "img2": "https://static.zara.net/photos///2023/V/0/3/p/5644/605/612/2/w/27/5644605612_6_1_1.jpg?ts=1669363153696",
+                    "img3": "https://static.zara.net/photos///2023/V/0/3/p/5644/605/612/2/w/27/5644605612_6_2_1.jpg?ts=1669363146786",
+                    "img4": "https://static.zara.net/photos///2023/V/0/3/p/5644/605/612/2/w/27/5644605612_6_3_1.jpg?ts=1669363156053"
+                }
+            ]
+        },
+        {
+            "name": "KIDS/ RHINESTONE ANKLE BOOTS",
+            "price": 3990,
+            "detail": "Black monochrome ankle boots for evening wear with a rhinestone finish. Back pull tab for slipping on with ease. Inner zip fastening. Rubber soles.",
+            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. Thanks to the collaboration with our suppliers, we work to know the facilities and processes used to manufacture our garments in order to know the traceability of our products.",
+            "item":[
+                {
+                    "color": "black",
+                    "img1": "https://static.zara.net/photos///2022/I/1/3/p/2155/030/800/4/w/27/2155030800_1_1_1.jpg?ts=1668595685186",
+                    "img2": "https://static.zara.net/photos///2022/I/1/3/p/2155/030/800/2/w/27/2155030800_6_1_1.jpg?ts=1668096206063",
+                    "img3": "https://static.zara.net/photos///2022/I/1/3/p/2155/030/800/2/w/27/2155030800_6_2_1.jpg?ts=1667206663197",
+                    "img4": "https://static.zara.net/photos///2022/I/1/3/p/2155/030/800/2/w/27/2155030800_6_3_1.jpg?ts=1668419589844"
+                }
+            ]
+        }
+    ]
+}
+    
