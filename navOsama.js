@@ -77,7 +77,7 @@ function show() {
     }
 }
 function page() {
-  window.location.href="Best_sellers.html"
+  window.location.href="product_osama.html"
   
 }
 
