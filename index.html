@@ -4,16 +4,16 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="navOsama.css">
+    <link rel="stylesheet" href="navOsama.css" />
     <link
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
       integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
       crossorigin="anonymous"
     />
-    <title>Document</title>
+    <title>ZARA India | New Collection Online</title>
     <style>
-      *{
+      * {
         margin: 0px;
         padding: 0px;
       }
@@ -69,35 +69,26 @@
       .bar a:hover {
         fill: #d26548;
         color: #d26548;
-       
       }
       .copyright {
-    background-color: #000;
-    color: #fff;
-    font-size: 12px;
-    padding: 5px;
-    text-align: center;
-}
-
-      
-   
+        background-color: #000;
+        color: #fff;
+        font-size: 12px;
+        padding: 5px;
+        text-align: center;
+      }
     </style>
   </head>
   <body>
-   
-    <nav id="navbar" class="container">
-     
-    </nav>
-   
+    <nav id="navbar" class="container"></nav>
 
-    <div id="parent">
-    
+    <div id="parent"></div>
+    <div class="copyright">
+      No © copyright issues | Designed and developed by Abu Osama, Prince
     </div>
-    <div class="copyright">No © copyright issues | Designed and developed by Abu Osama, Prince</div>
   </body>
 </html>
 <script>
-
   let data = {
     mens: [
       {
@@ -169,7 +160,7 @@
   let Parent = document.getElementById("parent");
   function showproducts(data) {
     let box_div = document.createElement("div");
-    box_div.id="sam"
+    box_div.id = "sam";
     data.forEach((element) => {
       let image_p = document.createElement("img");
       image_p.setAttribute("src", element.image);
@@ -177,35 +168,33 @@
     });
     Parent.append(box_div);
   }
-  
-  if(!localStorage.getItem("current_page")){
-    localStorage.setItem("current_page","mens")
+
+  if (!localStorage.getItem("current_page")) {
+    localStorage.setItem("current_page", "mens");
   }
 
   showproducts(data[localStorage.getItem("current_page")]);
 
   function showmens() {
-    Parent.innerHTML=""
-    localStorage.setItem("current_page","mens")
+    Parent.innerHTML = "";
+    localStorage.setItem("current_page", "mens");
     let show_page = localStorage.getItem("current_page");
-    showproducts(data[show_page])
+    showproducts(data[show_page]);
     console.log(this);
-
   }
 
   function showwomens() {
-    Parent.innerHTML=""
-    localStorage.setItem("current_page","women")
+    Parent.innerHTML = "";
+    localStorage.setItem("current_page", "women");
     let show_page = localStorage.getItem("current_page");
-    showproducts(data[show_page])
+    showproducts(data[show_page]);
   }
 
   function showkids() {
-    Parent.innerHTML=""
-    localStorage.setItem("current_page","kids")
+    Parent.innerHTML = "";
+    localStorage.setItem("current_page", "kids");
     let show_page = localStorage.getItem("current_page");
-    showproducts(data[show_page])
+    showproducts(data[show_page]);
   }
-  
 </script>
 <script src="navOsama.js"></script>
