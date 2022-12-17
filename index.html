@@ -71,6 +71,13 @@
         color: #d26548;
        
       }
+      .copyright {
+    background-color: #000;
+    color: #fff;
+    font-size: 12px;
+    padding: 5px;
+    text-align: center;
+}
 
       
    
@@ -86,12 +93,13 @@
     <div id="parent">
     
     </div>
+    <div class="copyright">No © copyright issues | Designed and developed by Abu Osama, Prince</div>
   </body>
 </html>
 <script>
 
   let data = {
-    Mens: [
+    mens: [
       {
         name: "men1",
         image:
@@ -113,7 +121,7 @@
           "https://static.zara.net/photos///contents/mkt/spots/aw22-north-man-edition/subhome-xmedia-w47//w/1920/IMAGE-landscape-fill-88c5ba6c-832e-442e-878f-48b60c0c8aa7-default_0.jpg?ts=1669457412950",
       },
     ],
-    Womens: [
+    women: [
       {
         name: "women1",
         image:
@@ -135,7 +143,7 @@
           "https://static.zara.net/photos///contents/mkt/spots/aw22-north-woman-best-sellers/subhome-xmedia-38//w/1920/IMAGE-landscape-fill-c68605f6-1f94-4830-8f4a-0f3bf22017e2-default_0.jpg?ts=1663579002306",
       },
     ],
-    Kids: [
+    kids: [
       {
         name: "kids1",
         image:
@@ -169,25 +177,34 @@
     });
     Parent.append(box_div);
   }
-  showproducts(data.Mens);
+  
+  if(!localStorage.getItem("current_page")){
+    localStorage.setItem("current_page","mens")
+  }
+
+  showproducts(data[localStorage.getItem("current_page")]);
 
   function showmens() {
     Parent.innerHTML=""
-    showproducts(data.Mens)
+    localStorage.setItem("current_page","mens")
+    let show_page = localStorage.getItem("current_page");
+    showproducts(data[show_page])
+    console.log(this);
 
-    console.log(data.Mens);
   }
 
   function showwomens() {
     Parent.innerHTML=""
-    showproducts(data.Womens)
-    console.log(data.Womens);
+    localStorage.setItem("current_page","women")
+    let show_page = localStorage.getItem("current_page");
+    showproducts(data[show_page])
   }
 
   function showkids() {
     Parent.innerHTML=""
-    showproducts(data.Kids)
-    console.log(data.Kids);
+    localStorage.setItem("current_page","kids")
+    let show_page = localStorage.getItem("current_page");
+    showproducts(data[show_page])
   }
   
 </script>

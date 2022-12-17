@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="navOsama.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="navOsama.css" />
     <link
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
@@ -12,121 +12,251 @@
       crossorigin="anonymous"
     />
     <title>Document</title>
-</head>
-<style>
-    #parent{
-        /* display: grid; */
-        /* grid-template-columns: repeat(3,1fr); */
-        display: flex;
-        border: 1px solid red;
-        justify-content: space-evenly;
-        gap: 30px;
-        margin-top: 100px;
+  </head>
+  <style>
+    * {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+        Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+        sans-serif;
     }
-    .child-div{
-        border: 1px solid green;
-        /* width:max-content; */
+    h1,
+    h2,
+    h3,
+    h4 {
+      color: #652f5d;
+    }
+    #parent {
+      /* display: grid; */
+      /* grid-template-columns: repeat(3,1fr); */
+      display: flex;
+      justify-content: space-evenly;
+      gap: 30px;
+      margin-top: 100px;
+    }
+    .child-div {
+      /* width:max-content; */
+      width: 32%;
+      padding: 30px;
+      box-sizing: border-box;
     }
 
-      .child-div>div {
-        display: grid;
-        grid-template-columns:100px 100px 100px 100px;
-        /* column-gap: 20px; */
-        gap: 10px;
-        justify-content: center;
-        border: 1px solid red;
-        margin: auto;
-      }
-      .minbox {
-        grid-column: 1/4;
-        grid-row: 1/4;
-      }
-      img{
-        width: 100%;
-      }
-      .bag{
-        padding: 20px 50px;
-        color: white;
-        background: black;
-        cursor: pointer;
-        width: 100%;
-      }
-      .content{
-        align-self: center;
-        width: 20%;
+    .image_container {
+      display: grid;
+      grid-template-columns: repeat(4, 24%);
+      /* column-gap: 20px; */
+      gap: 1%;
+      justify-content: center;
+      margin: auto;
+    }
+    .minbox {
+      grid-column: 1/4;
+      grid-row: 1/4;
+    }
+    img {
+      width: 100%;
+    }
+    .bag {
+      padding: 20px 50px;
+      color: white;
+      cursor: pointer;
+      width: 100%;
+      background: #683560;
+      border: 2px solid #683560;
 
-      }
-      .cart{
-        width: 20%;
-      }
-      
+      border-radius: 4px;
+      font-weight: 600;
+    }
+    .bag:hover {
+      color: #683560;
+      background: white;
+    }
+    .image_box {
+      width: 36%;
+    }
+    .cart {
+      display: flex;
+      flex-direction: column;
+      /* gap: 20px; */
+      justify-content: space-between;
+      border: 2px solid #683560;
+    border-right: none;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    }
+    .content {
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      justify-content: center;
+      background: linear-gradient(45deg, #56114c, #683560);
+    background-size: 200%;
+    /* margin-left: 20px; */
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    color: white;
+}
+.content p{
+  font-size: 20px;
+  font-family: cursive;
+
+}
     
-</style>
-<body>
-    <nav id="navbar" class="container">
-     
-    </nav>
-   
+    .details h2{
+      color: white;
+      font-family: cursive;
+    }
+    .mrp{
+      color: grey;
+    }
+  </style>
+  <body>
+    <nav id="navbar" class="container"></nav>
 
     <div id="parent">
-        <div class="child-div content" >
-            <h3>MATERIAL,CARE AND ORIGIN</h3>
-<h3>JOIN LIFE</h3>
-<P>Care for fiber: at least 25% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products.</P>
-<a href="#">Read more</a>
+      <!-- <div class="child-div content">
+        <h3>MATERIAL,CARE AND ORIGIN</h3>
+        <h3>JOIN LIFE</h3>
+        <p>
+          Care for fiber: at least 25% recycled polyester. We use the Join Life
+          label on clothing that is produced using technology and raw materials
+          that help us to reduce the environmental impact of our products.
+        </p>
+        <a href="#">Read more</a>
+      </div>
+      <div class="image_box">
+        <div class="image_container">
+          <div class="img-box minbox">
+            <img
+              class="p_image"
+              src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
+              alt=""
+            />
+          </div>
+          <div class="img-box">
+            <img
+              class="p_image"
+              src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
+              alt=""
+            />
+          </div>
+          <div class="img-box">
+            <img
+              class="p_image"
+              src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
+              alt=""
+            />
+          </div>
+          <div class="img-box">
+            <img
+              class="p_image"
+              src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
+              alt=""
+            />
+          </div>
         </div>
-        <div class="child-div">
-            <div>
-                <div class="img-box minbox">
-                  <img
-                    class="p_image"
-                    src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
-                    alt=""
-                  />
-                </div>
-                <div class="img-box">
-                  <img
-                    class="p_image"
-                    src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
-                    alt=""
-                  />
-                </div>
-                <div class="img-box">
-                  <img
-                    class="p_image"
-                    src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
-                    alt=""
-                  />
-                </div>
-                <div class="img-box">
-                  <img
-                    class="p_image"
-                    src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
-                    alt=""
-                  />
-                </div>
-              </div>
-        </div>
-        <div class="child-div cart" >
-            <h2>HIGH-WAIST TROUSERS</h2>
-            <p>Midi dress with a straight-cut neckline and exposed shoulders. Featuring a back slit at the hem and invisible zip fastening.</p>
-            <p>BLACK</p>
-            <h3>1290</h3>
-            <P>MRP incl. of all taxes</P>
-                <p>S(UK S)</p>
-                <p>M(UK M)</p>
-                <p>L(UK L)</p>
-                <p>XL(UK XL)</p>
-                <p>XXL(UK XXL</p>
-            <button onclick="cart()" class="bag">ADD TO BAG</button>
-        </div>
+      </div>
+      <div class="child-div cart">
+        <h2>HIGH-WAIST TROUSERS</h2>
+        <p>
+          Midi dress with a straight-cut neckline and exposed shoulders.
+          Featuring a back slit at the hem and invisible zip fastening.
+        </p>
+        <p>BLACK</p>
+        <h3>1290</h3>
+        <p>MRP incl. of all taxes</p>
+        <p>S(UK S)</p>
+        <p>M(UK M)</p>
+        <p>L(UK L)</p>
+        <p>XL(UK XL)</p>
+        <p>XXL(UK XXL</p>
+        <button onclick="cart()" class="bag">ADD TO BAG</button>
+      </div> -->
     </div>
-    
-</body>
+  </body>
 </html>
 <script>
-    function cart() {
-        window.location.href="cart.html"
-    }
+  let item = JSON.parse(localStorage.getItem("show_product"));
+  // console.log(item);
+
+  function cart() {
+    window.location.href = "cart.html";
+  }
+
+  function showmens() {
+    localStorage.setItem("current_page", "mens");
+    window.location.href = "index.html";
+  }
+
+  function showwomens() {
+    localStorage.setItem("current_page", "women");
+    window.location.href = "index.html";
+  }
+
+  function showkids() {
+    localStorage.setItem("current_page", "kids");
+    window.location.href = "index.html";
+  }
+  let parent = document.getElementById("parent");
+  function display(data) {
+    console.log(data);
+
+    parent.innerHTML = `
+<div class="child-div content">
+        <div class="details"><h2>MATERIAL,CARE AND ORIGIN</h2>
+        </div>
+        <p>
+          ${data.detail}
+        </p>
+      </div>
+      <div class="image_box">
+        <div class="image_container">
+          <div class="img-box minbox">
+            <img
+              class="p_image"
+              src= ${data.item[0].img1}
+              alt=""
+            />
+          </div>
+          <div class="img-box">
+            <img
+              class="p_image"
+              src=${data.item[0].img2}
+              alt=""
+            />
+          </div>
+          <div class="img-box">
+            <img
+              class="p_image"
+              src=${data.item[0].img3}
+              alt=""
+            />
+          </div>
+          <div class="img-box">
+            <img
+              class="p_image"
+              src=${data.item[0].img4}
+              alt=""
+            />
+          </div>
+        </div>
+      </div>
+      <div class="child-div cart">
+        <h2>${data.name}</h2>
+        <p>
+         ${data.disc}
+        </p>
+        <p>BLACK</p>
+        <h3>&#8377 ${data.price}</h3>
+        <p class="mrp">MRP incl. of all taxes</p>
+        <p>S(UK S)</p>
+        <p>M(UK M)</p>
+        <p>L(UK L)</p>
+        <p>XL(UK XL)</p>
+        <p>XXL(UK XXL</p>
+        <button onclick="cart()" class="bag">ADD TO BAG</button>
+      </div>
+`;
+  }
+  display(item);
 </script>
 <script src="navOsama.js"></script>
