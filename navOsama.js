@@ -10,9 +10,23 @@ function navbar() {
   <i class="fas fa-bars" onclick="show()"></i>
 </label>
   <div class="logo">  
-  <img src="logo.png" alt="" />
+  <img src="zara1.png" alt="" />
 </div>
+ <div>
+        <input class="search" type="text" placeholder="SEARCH">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <i class="fa-solid fa-person"></i>
+        <i class="fa-solid fa-person-dress"></i>
+        <i class="fa-solid fa-child-reaching"></i>
+        <i class="fa-solid fa-cart-shopping"></i>
+        <i class="fa-solid fa-bag-shopping"></i>
+        <i class="fa-solid fa-credit-card"></i>
+        <i class="fa-solid fa-user"></i>
 
+        <a class="loginb" href="login.html">Log In</a>
+        <a class="help" href="help.html">HELP</a>
+        <a class="icon" href="cart.html">Cart</a>
+    </div>
 
 <ul id="#style-2">
   <div class="item">

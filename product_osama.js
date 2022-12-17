@@ -13,7 +13,14 @@ let parent = document.getElementById("parent");
 function product(data) {
   data.forEach((element) => {
     // console.log(element.item[0].img1);
+    let main_div=document.createElement("div")
+    let box=document.createElement("div")
+    box.classList.add("task");
+
+
     let box_div = document.createElement("div");
+    box_div.classList.add("tata");
+    main_div.classList.add("bata");
     box_div.addEventListener("click", function () {
       bag(element);
     });
@@ -48,9 +55,13 @@ function product(data) {
     </div>
     `;
     let name = document.createElement("h1");
+    let price=document.createElement("p")
+    price.innerHTML="Rs"+" "+element.price
     name.innerText = element.name;
+    box.append(name,price)
 
-    parent.append(box_div, name);
+    main_div.append(box_div, box);
+    parent.append(main_div)
   });
 }
 

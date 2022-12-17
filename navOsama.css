@@ -19,7 +19,7 @@
   left: 0;
   z-index: 4;
   box-sizing: border-box;
-  border-bottom: 2px solid #85567f;
+  background-image: linear-gradient(to right, #1FA2FF 0%, #12D8FA  51%, #1FA2FF  100%);
 }
 
 .container ul {
@@ -62,6 +62,9 @@
   -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
   background-color: #D62929;
 }
+.fa-bars{
+  color: white;
+}
 
 
 
@@ -89,10 +92,10 @@
     background: white;
     padding: 10px 20px;
 }
-.menu{
+.menu {
   width: 20%;
-    background: white;
-    padding: 10px 20px;
+  background: white;
+  padding: 10px 20px 60px;
 }
 .menu p{
   font-weight: 600;
@@ -131,6 +134,15 @@ border: none;
 background: transparent;
 cursor: pointer;
 
+}
+.search{
+  padding: 5px 10px;
+    background-image: linear-gradient(to right, #434648 0%, #444a4b 51%, #343738 100%);
+    border-radius: 60px;
+    color: white;
+}
+.search::placeholder{
+  color: whitesmoke;
 }
   
 

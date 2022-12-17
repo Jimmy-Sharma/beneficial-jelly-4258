@@ -56,39 +56,48 @@
       width: 100%;
     }
     .bag {
-      padding: 20px 50px;
-      color: white;
-      cursor: pointer;
-      width: 100%;
-      background: #683560;
-      border: 2px solid #683560;
+      background-image: linear-gradient(to right, #1FA2FF 0%, #12D8FA  51%, #1FA2FF  100%);
 
-      border-radius: 4px;
-      font-weight: 600;
-    }
+/* margin: 10px; */
+padding: 20px;
+text-align: center;
+/* text-transform: uppercase; */
+transition: 0.5s;
+background-size: 200% auto;
+color: white;
+box-shadow: 0 0 20px #eee;
+border-radius: 4px;
+/* display: block; */
+border: none;
+font-weight: 600;
+}
     .bag:hover {
-      color: #683560;
-      background: white;
+      background-position: right center; 
+    color: #fff;
+    text-decoration: none;
     }
     .image_box {
       width: 36%;
     }
-    .cart {
-      display: flex;
-      flex-direction: column;
-      /* gap: 20px; */
-      justify-content: space-between;
-      border: 2px solid #683560;
+    
+      .cart {
+    display: flex;
+    flex-direction: column;
+    /* gap: 20px; */
+    justify-content: space-between;
+    border: 2px solid #1FA2FF;
     border-right: none;
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
-    }
-    .content {
-      display: flex;
-      flex-direction: column;
-      gap: 30px;
-      justify-content: center;
-      background: linear-gradient(45deg, #56114c, #683560);
+}
+    
+.content {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    /* background: linear-gradient(45deg, #56114c, #683560); */
+    background-image: linear-gradient(to right, #1FA2FF 0%, #12D8FA  51%, #1FA2FF  100%);
     background-size: 200%;
     /* margin-left: 20px; */
     border-top-right-radius: 8px;
@@ -108,6 +117,7 @@
     .mrp{
       color: grey;
     }
+    
   </style>
   <body>
     <nav id="navbar" class="container"></nav>
@@ -179,6 +189,16 @@
   // console.log(item);
 
   function cart() {
+    console.log(item);
+    let avail=JSON.parse(localStorage.getItem("cart_data"))
+    if(avail){
+
+      localStorage.setItem("cart_data",JSON.stringify([...avail,item]))
+    }else{
+      localStorage.setItem("cart_data",JSON.stringify([avail]))
+
+    }
+  
     window.location.href = "cart.html";
   }
 
@@ -258,5 +278,19 @@
 `;
   }
   display(item);
+  let all_image_container = document.querySelectorAll(".img-box");
+  for (let i = 0; i < all_image_container.length; i++) {
+    all_image_container[i].onclick = function () {
+      showClickedPic(all_image_container, i);
+    };
+  }
+  function showClickedPic(allimg, index) {
+    for (let i = 0; i < allimg.length; i++) {
+      allimg[i].classList.remove("minbox");
+    }
+    allimg[index].classList.add("minbox");
+  }
+
+
 </script>
 <script src="navOsama.js"></script>
