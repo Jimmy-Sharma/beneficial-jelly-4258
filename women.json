@@ -210,7 +210,7 @@
           "color": "white",
           "img1": "https://static.zara.net/photos///2022/I/0/1/p/8779/400/712/2/w/750/8779400712_2_1_1.jpg?ts=1657273842773",
           "img2": "https://static.zara.net/photos///2022/I/0/1/p/8779/400/712/2/w/750/8779400712_2_2_1.jpg?ts=1657273824889",
-          "img3": "https://static.zara.net/photos///contents/cm/media-transformations/joinlife-ctx/joinlife-large.svg?ts=1611919362013",
+          "img3": "https://static.zara.net/photos///2022/I/0/1/p/8779/400/712/2/w/750/8779400712_2_2_1.jpg?ts=1657273824889",
           "img4": "https://static.zara.net/photos///2022/I/0/1/p/8779/400/712/2/w/750/8779400712_6_2_1.jpg?ts=1657280282729"
         },
         {
@@ -349,45 +349,46 @@
       ]
     },
     {
-        "name": "SATIN TOP WITH RHINESTONES",
-        "price": 2990,
-        "detail": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. ",
-        "disc": "Long sleeve top with a round neckline. Featuring an open back with metallic fringing and rhinestone appliqués.",
-        "item": [
-          {
-            "color": "black",
-            "img1": "https://static.zara.net/photos///2022/I/0/1/p/9371/331/800/3/w/750/9371331800_1_1_1.jpg?ts=1669891245729",
-            "img2": "https://static.zara.net/photos///2022/I/0/1/p/9371/331/800/2/w/750/9371331800_6_1_1.jpg?ts=1669647483400",
-            "img3": "https://static.zara.net/photos///2022/I/0/1/p/9371/331/800/2/w/750/9371331800_6_2_1.jpg?ts=1669647485631",
-            "img4": "https://static.zara.net/photos///2022/I/0/1/p/9371/331/800/2/w/750/9371331800_6_3_1.jpg?ts=1669647523222"
-          },
-          {
-            "img1": "",
-            "img2": "",
-            "img3": "",
-            "img4": ""
-          }
-        ]
-      }, {
-        "name": "RIBBED TOP",
-        "price": 590,
-        "detail": " Care for water: produced using less water.We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
-        "disc": "Top with a straight neckline and thin straps.",
-        "item": [
-          {
-            "color": "white",
-            "img1": "https://static.zara.net/photos///2022/I/0/1/p/3253/303/250/2/w/750/3253303250_1_1_1.jpg?ts=1656425758992",
-            "img2": "https://static.zara.net/photos///2022/I/0/1/p/3253/303/250/2/w/750/3253303250_2_1_1.jpg?ts=1656425759336",
-            "img3": "https://static.zara.net/photos///2022/I/0/1/p/3253/303/250/2/w/750/3253303250_2_2_1.jpg?ts=1656425759128",
-            "img4": "https://static.zara.net/photos///2022/V/0/1/p/3253/303/250/2/w/750/3253303250_6_1_1.jpg?ts=1644312842497"
-          },
-          {
-            "img1": "",
-            "img2": "",
-            "img3": "",
-            "img4": ""
-          }
-        ]
-      }
+      "name": "SATIN TOP WITH RHINESTONES",
+      "price": 2990,
+      "detail": "We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. ",
+      "disc": "Long sleeve top with a round neckline. Featuring an open back with metallic fringing and rhinestone appliqués.",
+      "item": [
+        {
+          "color": "black",
+          "img1": "https://static.zara.net/photos///2022/I/0/1/p/9371/331/800/3/w/750/9371331800_1_1_1.jpg?ts=1669891245729",
+          "img2": "https://static.zara.net/photos///2022/I/0/1/p/9371/331/800/2/w/750/9371331800_6_1_1.jpg?ts=1669647483400",
+          "img3": "https://static.zara.net/photos///2022/I/0/1/p/9371/331/800/2/w/750/9371331800_6_2_1.jpg?ts=1669647485631",
+          "img4": "https://static.zara.net/photos///2022/I/0/1/p/9371/331/800/2/w/750/9371331800_6_3_1.jpg?ts=1669647523222"
+        },
+        {
+          "img1": "",
+          "img2": "",
+          "img3": "",
+          "img4": ""
+        }
+      ]
+    },
+    {
+      "name": "RIBBED TOP",
+      "price": 590,
+      "detail": " Care for water: produced using less water.We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
+      "disc": "Top with a straight neckline and thin straps.",
+      "item": [
+        {
+          "color": "white",
+          "img1": "https://static.zara.net/photos///2022/I/0/1/p/3253/303/250/2/w/750/3253303250_1_1_1.jpg?ts=1656425758992",
+          "img2": "https://static.zara.net/photos///2022/I/0/1/p/3253/303/250/2/w/750/3253303250_2_1_1.jpg?ts=1656425759336",
+          "img3": "https://static.zara.net/photos///2022/I/0/1/p/3253/303/250/2/w/750/3253303250_2_2_1.jpg?ts=1656425759128",
+          "img4": "https://static.zara.net/photos///2022/V/0/1/p/3253/303/250/2/w/750/3253303250_6_1_1.jpg?ts=1644312842497"
+        },
+        {
+          "img1": "",
+          "img2": "",
+          "img3": "",
+          "img4": ""
+        }
+      ]
+    }
   ]
 }

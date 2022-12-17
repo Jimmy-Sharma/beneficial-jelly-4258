@@ -15,13 +15,13 @@
 
     <title>Document</title>
     <style>
-      #parent{
+      #parent {
         margin-top: 100px;
       }
       .p_image {
         width: 100%;
       }
-      #parent > div {
+      .tata {
         display: grid;
         grid-template-columns: 200px 200px 200px 200px;
         /* column-gap: 20px; */
@@ -35,43 +35,26 @@
         grid-column: 1/4;
         grid-row: 1/4;
       }
+      .bata {
+        width: max-content;
+        margin: auto;
+      }
+      .task{
+        align-items: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 10px 0px;
+      }
+      .task p{
+        font-weight: 600;
+        font-size: 25px;
+      }
     </style>
   </head>
   <body>
     <nav id="navbar" class="container"></nav>
-    <div id="parent">
-      <!-- <div>
-        <div class="img-box minbox">
-          <img
-            class="p_image"
-            src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
-            alt=""
-          />
-        </div>
-        <div class="img-box">
-          <img
-            class="p_image"
-            src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
-            alt=""
-          />
-        </div>
-        <div class="img-box">
-          <img
-            class="p_image"
-            src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
-            alt=""
-          />
-        </div>
-        <div class="img-box">
-          <img
-            class="p_image"
-            src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/593/3427402800_2_1_1.jpg?ts=1668004178580"
-            alt=""
-          />
-        </div>
-      </div> -->
-
-    </div>
+    <div id="parent"></div>
   </body>
 </html>
 <script src="product_osama.js"></script>
