@@ -4,16 +4,30 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="/styles/Best_sellers.css" />
     <title>Document</title>
+    <style>
+     
+    </style>
     
   </head>
   <body>
+    <div class="dropdown">
+      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenu2" data-bs-toggle="dropdown" aria-expanded="false">
+        FILTERS
+      </button>
+      <ul class="dropdown-menu" aria-labelledby="dropdownMenu2">
+        <li><button class="dropdown-item low_to_high" type="button">Low to High</button></li>
+        <li><button class="dropdown-item high_to_low" type="button">High to low</button></li>
+      </ul>
+    </div>
     <!-- //Big Image Section................................................................................................................................ -->
     <div class="biggest_img">
       <img
         src="https://static.zara.net/photos///2023/V/0/2/p/3427/402/800/2/w/608/3427402800_2_1_1.jpg?ts=1668004178580"
       />
+      <button class="btn_add">+</button>
       <div class="biggest_img_details">
         <p class="details_product">FAUX LEATHER BIKER JACKET</p>
         <p class="details_price">₹ 6,990.00</p>
@@ -23,5 +37,6 @@
     <!-- All Products Section----------------------------------------------------------------------------------------------------------------------------------- -->
     <div id="all_products" ></div>
   </body>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
   <script src="/scripts/Best_sellers.js"></script>
 </html>

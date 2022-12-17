@@ -69,6 +69,9 @@ function render_products(data){
         img_div.setAttribute("class","img_div");
         let img = document.createElement("img");
         img.src=elem.image;
+        let add_btn = document.createElement("button");
+        add_btn.innerText="+"
+        add_btn.setAttribute("class","add_btn");
         let details_div = document.createElement("div");
         details_div.setAttribute("class","details_div");
         let detail = document.createElement("P");
@@ -78,7 +81,14 @@ function render_products(data){
 
 
         details_div.append(detail,price);
-        img_div.append(img,details_div);
+        img_div.append(img,add_btn,details_div);
         Product_section.append(img_div);
     });
 };
+let lowToHigh =document.querySelector(".low_to_high");
+lowToHigh.addEventListener("click",function(){
+    let ans = data.sort((a,b)=> {
+        return a.price - b.price;
+    });
+    console.log(ans);
+});
