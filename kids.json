@@ -3,8 +3,8 @@
         {
             "name": "DENIM WORKER JACKET",
             "price": 2790,
-            "detail" : "Collared denim jacket with long sleeves. Button-up front. Contrast front pockets.",
-            "disc": "MADE TO BE USED MORE, MADE TO BE MADE AGAIN AND MADE FROM SAFE AND RECYCLED OR RENEWABLE MATERIALS.THE JEANS REDESIGN REIMAGINES HISTORY’S MOST ICONIC FASHION ITEM TO TRANSCEND THE HERE AND NOW - MAKING JEANS THAT ARE MORE RESPONSIBLE AND EXTENDING THEIR LIFE CYCLE",
+            "disc" : "Collared denim jacket with long sleeves. Button-up front. Contrast front pockets.",
+            "detail": "MADE TO BE USED MORE, MADE TO BE MADE AGAIN AND MADE FROM SAFE AND RECYCLED OR RENEWABLE MATERIALS.THE JEANS REDESIGN REIMAGINES HISTORY’S MOST ICONIC FASHION ITEM TO TRANSCEND THE HERE AND NOW - MAKING JEANS THAT ARE MORE RESPONSIBLE AND EXTENDING THEIR LIFE CYCLE",
             "item":[
                 {
                     "color": "blue",
@@ -18,8 +18,8 @@
         {
             "name": "BASIC T-SHIRT",
             "price": 550,
-            "detail": "Round neck T-shirt with short sleeves.",
-            "disc":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our product",
+            "disc": "Round neck T-shirt with short sleeves.",
+            "detail":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our product",
             "item":[
                 {
                     "color": "white",
@@ -47,8 +47,8 @@
         {
             "name": "PUFFER COAT WITH RUBBERISED DETAIL",
             "price": 2490,
-            "detail": "Rubberised puffer coat featuring a hood and long sleeves with elastic trims. Featuring a zip-up front fastening hidden by a snap-button placket. Front pockets",
-            "disc":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments",
+            "disc": "Rubberised puffer coat featuring a hood and long sleeves with elastic trims. Featuring a zip-up front fastening hidden by a snap-button placket. Front pockets",
+            "detail":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments",
             "item":[
                 {
                     "color": "pink",
@@ -69,8 +69,8 @@
         {
             "name": "KIDS/ LOAFERS WITH TRACK SOLES",
             "price": 2990,
-            "detail": "Loafers with a shiny finish. 100% cotton insole and lining. Rubber track sole",
-            "disc":" We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals.",
+            "disc": "Loafers with a shiny finish. 100% cotton insole and lining. Rubber track sole",
+            "detail":" We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals.",
             "item":[
                 {
                     "color": "black",
@@ -84,8 +84,8 @@
         {
             "name": "KIDS/ CROCHET SHOPPER BAG",
             "price": 2590,
-            "detail": "100% cotton crochet tote bag. Slogan detail. Two handles.",
-            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. ",
+            "disc": "100% cotton crochet tote bag. Slogan detail. Two handles.",
+            "detail":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. ",
             "item":[
                 {
                     "color": "white",
@@ -99,8 +99,8 @@
         {
             "name": "WAVY SUNGLASSES",
             "price": 1090,
-            "disc": "Square sunglasses with square resin frame. 100% UV PROTECTION. CATEGORY 3.",
-            "detail": "We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. ",
+            "detail": "Square sunglasses with square resin frame. 100% UV PROTECTION. CATEGORY 3.",
+            "disc": "We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. ",
             
             "item":[
                 {
@@ -122,8 +122,8 @@
         {
             "name": "PACK OF FOUR SEASHELL EARRINGS",
             "price": 590,
-            "detail": "Pack of four hoop earrings with push-back closure and seashell appliqués. This pack is indivisible and must be returned complete. Contains small pieces. Not recommended for",
-            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals",
+            "disc": "Pack of four hoop earrings with push-back closure and seashell appliqués. This pack is indivisible and must be returned complete. Contains small pieces. Not recommended for",
+            "detail":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals",
             "item":[
                 {
                     "color": "pink",
@@ -136,8 +136,8 @@
         {
             "name": "3-PACK OF PLAIN T-SHIRTS",
             "price": 1490,
-            "detail": " Pack of 3 plain long sleeve T-shirts with a round neckline. This pack is indivisible and must be returned complete.",
-            "disc":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
+            "disc": " Pack of 3 plain long sleeve T-shirts with a round neckline. This pack is indivisible and must be returned complete.",
+            "detail":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
             "item":[
                 {
                     "color": "green",
@@ -165,8 +165,8 @@
         {
             "name": "KIDS/ LACE-UP SKATE SNEAKERS",
             "price": 1990,
-            "detail": "Cotton sneakers with adjustable lace-up fastening. Back pull tab for slipping on with ease. 100% cotton insole and lining. Rubber sole.",
-            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nation",
+            "disc": "Cotton sneakers with adjustable lace-up fastening. Back pull tab for slipping on with ease. 100% cotton insole and lining. Rubber sole.",
+            "detail":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nation",
             "item":[
                 {
                     "color": "white",
@@ -187,8 +187,8 @@
         {
             "name": "KIDS/ 3-PACK OF BRIEFS",
             "price": 990,
-            "detail": "Pack of three pairs of briefs with an elastic waistband.",
-            "disc":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
+            "disc": "Pack of three pairs of briefs with an elastic waistband.",
+            "detail":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
             "item":[
                 {
                     "color": "white",
@@ -202,8 +202,8 @@
         {
             "name": "KIDS/ RIBBED BEAR PYJAMAS",
             "price": 1590,
-            "detail": "Two-piece pyjamas. T-shirt with a round neck and long sleeves. Long trousers with an elasticated waistband and cuffed hems. This pack is indivisible and must be returned complete",
-            "disc":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
+            "disc": "Two-piece pyjamas. T-shirt with a round neck and long sleeves. Long trousers with an elasticated waistband and cuffed hems. This pack is indivisible and must be returned complete",
+            "detail":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
             "item":[
                 {
                     "color": "blue",
@@ -217,8 +217,8 @@
         {
             "name": "FAUX FUR BEAR BLANKET",
             "price": 1790,
-            "detail": "Faux fur blanket with a bear print.Measurements: 140 cm / 55.1″ x 100 cm / 39.3″",
-            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals.",
+            "disc": "Faux fur blanket with a bear print.Measurements: 140 cm / 55.1″ x 100 cm / 39.3″",
+            "detail":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals.",
             "item":[
                 {
                     "color": "blue",
@@ -232,8 +232,8 @@
         {
             "name": "CHERRY WATERMELON ICE 40 ML / 1.35 OZ",
             "price": 1290,
-            "detail": "ZARA CHERRY WATERMELON ICE EDT 40 ML (1.35 FL. OZ).",
-            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Natios Sustainable Development Goals.",
+            "disc": "ZARA CHERRY WATERMELON ICE EDT 40 ML (1.35 FL. OZ).",
+            "detail":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Natios Sustainable Development Goals.",
             "item":[{
 
                     "color": "pink",
@@ -247,8 +247,8 @@
         {
             "name": "WINDPROOF AND WATER-REPELLENT APRÈS SKI QUILTED CARGO TROUSERS",
             "price": 3790,
-            "detail": "Wind-proof and water-repellent quilted cargo trousers featuring an elasticated waistband, front snap-button fastening, belt appliqué, front pockets, rear patch pockets, leg pockets with flaps and fleece lining",
-            "disc":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.To assess compliance, we have developed a programme of audits and continuous improvement plans.",
+            "disc": "Wind-proof and water-repellent quilted cargo trousers featuring an elasticated waistband, front snap-button fastening, belt appliqué, front pockets, rear patch pockets, leg pockets with flaps and fleece lining",
+            "detail":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments.To assess compliance, we have developed a programme of audits and continuous improvement plans.",
             "item":[
                 {
                     "color": "pink",
@@ -262,8 +262,8 @@
         {
             "name": "KIDS/ WATER-REPELLENT PADDED BOOTS",
             "price": 3290,
-            "detail": "Padded boots in contrast materials. Adjustable lace-up fastening and side zip fastening. Front and back pull tabs for slipping on with ease. Memory-effect insole and faux fur lining. Chunky rubber sole.",
-            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals",
+            "disc": "Padded boots in contrast materials. Adjustable lace-up fastening and side zip fastening. Front and back pull tabs for slipping on with ease. Memory-effect insole and faux fur lining. Chunky rubber sole.",
+            "detail":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals",
             "item":[
                 {
                     "color": "grey",
@@ -284,8 +284,8 @@
         {
             "name": "VELVET BODYSUIT WITH SEQUINS",
             "price": 1790,
-            "detail": "Round neck velvet bodysuit featuring short puff sleeves in contrasting tulle fabric with sequin appliqués and elastic trims. Buttoned teardrop opening at the back and snap-button fastening at the bottom.",
-            "disc":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans.",
+            "disc": "Round neck velvet bodysuit featuring short puff sleeves in contrasting tulle fabric with sequin appliqués and elastic trims. Buttoned teardrop opening at the back and snap-button fastening at the bottom.",
+            "detail":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans.",
             "item":[
                 {
                     "color": "black",
@@ -299,8 +299,8 @@
         {
             "name": "PUFFER COAT WITH RUBBERISED DETAIL",
             "price": 2490,
-            "detail": "Rubberised puffer coat featuring a hood and long sleeves with elastic trims. Featuring a zip-up front fastening hidden by a snap-button placket. Front pockets.",
-            "disc":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans",
+            "disc": "Rubberised puffer coat featuring a hood and long sleeves with elastic trims. Featuring a zip-up front fastening hidden by a snap-button placket. Front pockets.",
+            "detail":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans",
             "item":[
                 {
                     "color": "black",
@@ -328,8 +328,8 @@
         {
             "name": "KIDS/ CONTRAST CROSSBODY BAG",
             "price": 1690,
-            "detail": "Crossbody bag in a combination of materials and colours with zip closure. Front flap pocket and clip closure. Two top handles and one adjustable shoulder strap.",
-            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. ",
+            "disc": "Crossbody bag in a combination of materials and colours with zip closure. Front flap pocket and clip closure. Two top handles and one adjustable shoulder strap.",
+            "detail":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. ",
             "item":[
                 {
                     "color": "pink",
@@ -343,8 +343,8 @@
         {
             "name": "KIDS/ KNIT WRAP NECK WARMER",
             "price": 890,
-            "detail": "Knit wrap neck warmer.",
-            "disc":"Care for fiber & water: at least 50% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environm",
+            "disc": "Knit wrap neck warmer.",
+            "detail":"Care for fiber & water: at least 50% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environm",
             "item":[
                 {
                     "color": "brown",
@@ -375,8 +375,8 @@
         {
             "name": "KIDS/ FAUX FUR NECK WARMER",
             "price": 1090,
-            "detail": "Faux fur snood.",
-            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. ",
+            "disc": "Faux fur snood.",
+            "detail":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. ",
             "item":[
                 {
                     "color": "black",
@@ -395,8 +395,8 @@
         {
             "name": "ANIME T-SHIRT",
             "price": 890,
-            "detail": "Long sleeve T-shirt with a round neckline.",
-            "disc":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products.",
+            "disc": "Long sleeve T-shirt with a round neckline.",
+            "detail":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products.",
             "item":[
                 {
                     "color": "black",
@@ -410,8 +410,8 @@
         {
             "name": "FRIENDS TOGETHER © BEAR BESTIES T-SHIRT",
             "price": 990,
-            "detail": "Long sleeve T-shirt with a round neckline. Featuring a © BEAR BESTIES print on the front.",
-            "disc":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products",
+            "disc": "Long sleeve T-shirt with a round neckline. Featuring a © BEAR BESTIES print on the front.",
+            "detail":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products",
             "item":[
                 {
                     "color": "pink",
@@ -424,8 +424,8 @@
         {
             "name": "SPICE GIRLS © T-SHIRT",
             "price": 1290,
-            "detail": "Long sleeve top with a round neckline and ribbed trims.",
-            "disc":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products.",
+            "disc": "Long sleeve top with a round neckline and ribbed trims.",
+            "detail":"Care for water: produced using less water. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products.",
             "item":[
                 {
                     "color": "white",
@@ -439,8 +439,8 @@
         {
             "name": "SPICE GIRLS © HOODIE",
             "price": 2290,
-            "detail": "Hoodie with long sleeves and ribbed trims. SPICE GIRLS © print",
-            "disc":"Care for fiber: at least 45% recycled cotton & 45% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products",
+            "disc": "Hoodie with long sleeves and ribbed trims. SPICE GIRLS © print",
+            "detail":"Care for fiber: at least 45% recycled cotton & 45% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products",
             "item":[
                 {
                     "color": "black",
@@ -454,8 +454,8 @@
         {
             "name": "RIPPED STRAIGHT FIT JEANS",
             "price": "1990",
-            "detail": "Straight fit jeans with an adjustable inner waistband and front button fastening. Five-pocket design. Ripped detail.",
-            "disc":"Care for water: produced using less water.We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
+            "disc": "Straight fit jeans with an adjustable inner waistband and front button fastening. Five-pocket design. Ripped detail.",
+            "detail":"Care for water: produced using less water.We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
             "item":[
                 {
                     "color": "grey",
@@ -476,8 +476,8 @@
         {
             "name": "KNIT CARDIGAN",
             "price": 2490,
-            "detail": " Knit cardigan featuring a round neck and long sleeves with cuffs. Button-up front",
-            "disc":"Care for fiber: at least 50% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
+            "disc": " Knit cardigan featuring a round neck and long sleeves with cuffs. Button-up front",
+            "detail":"Care for fiber: at least 50% recycled polyester. We use the Join Life label on clothing that is produced using technology and raw materials that help us to reduce the environmental impact of our products. ",
             "item":[
                 {
                     "color": "purple",
@@ -498,8 +498,8 @@
         {
             "name": "METALLIC PUFFER SKI JACKET",
             "price": 6590, 
-            "detail": "Puffer jacket with wraparound collar and long cuffed sleeves with ski pass pocket. Features injected zip fastening at the front with snap buttons hidden by a placket, front and inside grommet slot for headphone cables and contrast",
-            "disc":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans.",
+            "disc": "Puffer jacket with wraparound collar and long cuffed sleeves with ski pass pocket. Features injected zip fastening at the front with snap buttons hidden by a placket, front and inside grommet slot for headphone cables and contrast",
+            "detail":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans.",
             "item":[
                 {
                     "color": "grey",
@@ -513,8 +513,8 @@
         {
             "name": "WIND-PROOF AND WATER-REPELLENT COLOUR BLOCK QUILTED SNOW DUNGAREES",
             "price": 5590,
-            "detail": "Wind-proof and water-repellent flared quilted dungarees featuring a straight neckline and adjustable elastic straps. Injected zip-up front. Vents at the hems with zip fastening and cuffs for protection against the snow. Fleece lining.",
-            "disc":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans.",
+            "disc": "Wind-proof and water-repellent flared quilted dungarees featuring a straight neckline and adjustable elastic straps. Injected zip-up front. Vents at the hems with zip fastening and cuffs for protection against the snow. Fleece lining.",
+            "detail":"We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans.",
             "item":[
                 {
                     "color": "purple",
@@ -528,8 +528,8 @@
         {
             "name": "PADDED SKI JUMPSUIT",
             "price": 5590,
-            "detail": "Padded jumpsuit with hood and wraparound collar with hook-and-loop fastening. Zip-up front hidden by a snap-button placket. Adjustable elastic waist. Front pockets. Elastic c",
-            "disc":" We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans.",
+            "disc": "Padded jumpsuit with hood and wraparound collar with hook-and-loop fastening. Zip-up front hidden by a snap-button placket. Adjustable elastic waist. Front pockets. Elastic c",
+            "detail":" We work with monitoring programmes to ensure compliance with our social, environmental and health and safety standards for our garments. To assess compliance, we have developed a programme of audits and continuous improvement plans.",
             "item":[
                 {
                     "color": "purple",
@@ -543,8 +543,8 @@
         {
             "name": "KIDS/ RHINESTONE ANKLE BOOTS",
             "price": 3990,
-            "detail": "Black monochrome ankle boots for evening wear with a rhinestone finish. Back pull tab for slipping on with ease. Inner zip fastening. Rubber soles.",
-            "disc":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. Thanks to the collaboration with our suppliers, we work to know the facilities and processes used to manufacture our garments in order to know the traceability of our products.",
+            "disc": "Black monochrome ankle boots for evening wear with a rhinestone finish. Back pull tab for slipping on with ease. Inner zip fastening. Rubber soles.",
+            "detail":"We work with our suppliers, workers, unions and international organizations to develop a supply chain in which human rights are respected and promoted, contributing to the United Nations Sustainable Development Goals. Thanks to the collaboration with our suppliers, we work to know the facilities and processes used to manufacture our garments in order to know the traceability of our products.",
             "item":[
                 {
                     "color": "black",

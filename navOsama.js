@@ -1,6 +1,6 @@
-function sam() {
-  document.getElementById("checker").checked = true;
-}
+// function sam() {
+//   document.getElementById("checker").checked = true;
+// }
 function navbar() {
   let parent = document.getElementById("navbar");
 
@@ -9,26 +9,26 @@ function navbar() {
   <label htmlFor="checker" class="line">
   <i class="fas fa-bars" onclick="show()"></i>
 </label>
-  <div class="logo">
+  <div class="logo">  
   <img src="logo.png" alt="" />
 </div>
 
 
-<ul>
+<ul id="#style-2">
   <div class="item">
-    <li onclick="sam()">
+    <li >
       <i class="far fa-address-card"></i>
-      <button class="tag" onclick="showmens()"><span>Mens</span></button>
+      <button id="mens" class="tag" onclick="showmens()"><span>Mens</span></button>
     </li>
-    <li onclick="sam()">
+    <li >
       <i class="far fa-address-card"></i>
-      <button class="tag" onclick="showwomens()">
+      <button id="women" class="tag" onclick="showwomens()">
         <span>Womens</span>
       </button>
     </li>
-    <li onclick="sam()">
+    <li >
       <i class="fas fa-sitemap"></i>
-      <button class="tag" onclick="showkids()"><span>Kids</span></button>
+      <button id="kids"  class="tag" onclick="showkids()"><span>Kids</span></button>
     </li>
   </div>
 
