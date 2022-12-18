@@ -4,7 +4,6 @@
 function navbar() {
   let parent = document.getElementById("navbar");
 
-
   parent.innerHTML = `
   <label htmlFor="checker" class="line">
   <i class="fas fa-bars" onclick="show()"></i>
@@ -12,36 +11,51 @@ function navbar() {
   <div class="logo">  
   <img src="zara1.png" alt="" />
 </div>
- <div>
-        <input class="search" type="text" placeholder="SEARCH">
-        <i class="fa-solid fa-magnifying-glass"></i>
-        <i class="fa-solid fa-person"></i>
-        <i class="fa-solid fa-person-dress"></i>
-        <i class="fa-solid fa-child-reaching"></i>
-        <i class="fa-solid fa-cart-shopping"></i>
-        <i class="fa-solid fa-bag-shopping"></i>
-        <i class="fa-solid fa-credit-card"></i>
-        <i class="fa-solid fa-user"></i>
 
-        <a class="loginb" href="login.html">Log In</a>
-        <a class="help" href="help.html">HELP</a>
-        <a class="icon" href="cart.html">Cart</a>
+
+ <div id="right">
+
+ <li>
+ <i class="fa-solid fa-magnifying-glass"></i>
+ <input class="search" type="text" placeholder="SEARCH">
+</li>
+<li>
+
+<i class="fa-solid fa-user"></i>
+<a class="loginb" href="login.html">Log In</a>
+
+</li>
+
+<li>
+<i class="fa-solid fa-bag-shopping"></i>
+<a class="help" href="help.html">HELP</a>
+</li>
+       
+       
+      
+      
+        <li><i class="fa-solid fa-cart-shopping"></i>
+              <a class="icon" href="cart.html">Cart</a>
+        </li>
+         
+       
+        <i class="fa-solid fa-credit-card"></i>
     </div>
 
 <ul id="#style-2">
   <div class="item">
     <li >
-      <i class="far fa-address-card"></i>
-      <button id="mens" class="tag" onclick="showmens()"><span>Mens</span></button>
+    <i class="fa-solid fa-person"></i>
+    <button id="mens" class="tag" onclick="showmens()"><span>Mens</span></button>
     </li>
     <li >
-      <i class="far fa-address-card"></i>
-      <button id="women" class="tag" onclick="showwomens()">
+    <i class="fa-solid fa-person-dress"></i>
+    <button id="women" class="tag" onclick="showwomens()">
         <span>Womens</span>
       </button>
     </li>
     <li >
-      <i class="fas fa-sitemap"></i>
+      <i class="fa-solid fa-child-reaching"></i>
       <button id="kids"  class="tag" onclick="showkids()"><span>Kids</span></button>
     </li>
   </div>
