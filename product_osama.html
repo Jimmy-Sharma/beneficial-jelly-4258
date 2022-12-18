@@ -4,8 +4,8 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="product_osama.css" />
-    <link rel="stylesheet" href="navOsama.css" />
+    <link rel="stylesheet" href="styles/product_osama.css" />
+    <link rel="stylesheet" href="styles/navOsama.css" />
     <link
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
@@ -57,6 +57,23 @@
       }
       .task h1{
         width: 80%;
+      }
+
+      @media only screen and (max-width: 600px) {
+        .tata{
+          grid-template-columns: repeat(4,60px);
+        }
+        .task{
+          width: 268px;
+        }
+        .task h1{
+          width: 70%;
+          font-size: 14px;
+        }
+        .task p{
+          font-size: 14px;
+        }
+
       }
     </style>
   </head>

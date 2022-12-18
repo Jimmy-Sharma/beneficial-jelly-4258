@@ -151,3 +151,17 @@ p{
     display: flex;
     gap: 10px;
 }
+@media only screen and (max-width: 600px) {
+    .item_main_div_PS{
+        flex-direction: column;
+    }
+    .item_sub_div_PS{
+        width: 100%;
+    }
+    .des_main_div_PS{
+        width: 100%;
+    padding: 20px 0;
+    gap: 10px;
+    }
+
+}

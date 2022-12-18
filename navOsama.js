@@ -39,10 +39,29 @@ function navbar() {
         </li>
          
        
-        <i class="fa-solid fa-credit-card"></i>
     </div>
 
 <ul id="#style-2">
+<div class="item" id="mobile"> 
+
+
+<i class="fa-solid fa-user"></i>
+<a class="loginb" href="login.html">Log In</a>
+
+</li>
+
+<li>
+<i class="fa-solid fa-bag-shopping"></i>
+<a class="help" href="help.html">HELP</a>
+</li>
+       
+       
+      
+      
+        <li><i class="fa-solid fa-cart-shopping"></i>
+              <a class="icon" href="cart.html">Cart</a>
+        </li>
+</div>
   <div class="item">
     <li >
     <i class="fa-solid fa-person"></i>

@@ -168,6 +168,9 @@ cursor: pointer;
     top: 8px;
     font-size: 13px;
 }
+#mobile{
+  display: none;
+}
   
 
 @media only screen and (max-width: 600px) {
@@ -197,5 +200,30 @@ cursor: pointer;
     transition: all 0.5s ease-in;
     box-sizing: border-box;
     z-index: 5;
+    align-items: flex-start;
+  }
+  #right li{
+    display: none;
+  }
+  #right .search_icon{
+    display: block;
+  }
+  .logo{
+    width: max-content;
+  }
+  .logo img{
+    width: 100px;
+  }
+  .item{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+
+  }
+  #mobile{
+    display: flex;
+  }
+  .menu{
+    width: max-content;
   }
 }
