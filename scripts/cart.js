@@ -89,5 +89,8 @@ function remove_item(element,index) {
 
 
 
-
+let checkout=document.getElementsByClassName("pay")
+checkout.addEventListener("click",function(){
+    window.location.href="payment.html"
+})
 
