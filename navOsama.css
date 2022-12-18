@@ -144,6 +144,12 @@ cursor: pointer;
 .search::placeholder{
   color: whitesmoke;
 }
+#right{
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  color: #482c5c;
+}
   
 
 @media only screen and (max-width: 600px) {

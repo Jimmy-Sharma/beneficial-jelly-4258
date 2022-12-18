@@ -68,3 +68,5 @@ display(cart_data);
 function remove() {
   console.log("osa");
 }
+
+
