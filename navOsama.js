@@ -15,9 +15,9 @@ function navbar() {
 
  <div id="right">
 
- <li>
- <i class="fa-solid fa-magnifying-glass"></i>
- <input class="search" type="text" placeholder="SEARCH">
+ <li class="search_icon">
+ <i onclick="showSearcheditem()" class="fa-solid fa-magnifying-glass"></i>
+ <input id="find_item" oninput="abcdef()" class="search" type="text" placeholder="SEARCH">
 </li>
 <li>
 
@@ -107,5 +107,32 @@ function show() {
 function page() {
   window.location.href="product_osama.html"
   
+}
+function abcdef() {
+  let search_item = document.getElementById('find_item').value.toLowerCase()
+  
+  var arr = []
+  searchJSON(`./women.json`).then((data) => {
+    // obj.mens = data.women
+    arr.splice(arr.length-1,0,...data.women)
+  });
+  searchJSON(`./mens.json`).then((data) => {
+    arr.splice(arr.length-1,0,...data.mens)
+
+  });
+  searchJSON(`./kids.json`).then((data) => {
+    arr.splice(arr.length-1,0,...data.kids)
+    const result = arr.filter(e => e.name.toLowerCase().includes(search_item));
+    localStorage.setItem("fromSearchResult" , JSON.stringify(result))
+  });
+}
+
+function showSearcheditem() {
+  window.location.href = 'product_osama.html'
+}
+
+async function searchJSON(url) {
+  const res = await fetch(url);
+  return await res.json();
 }
 

@@ -1,15 +1,27 @@
+let parent = document.getElementById("parent");
+
 async function loadJSON(url) {
   const res = await fetch(url);
   return await res.json();
 }
 let show_page = localStorage.getItem("current_page");
-loadJSON(`./${show_page}.json`).then((data) => {
-  product(data[show_page]);
-});
+let showSearchResult = JSON.parse(localStorage.getItem("fromSearchResult"))
+if (showSearchResult) {
+  console.log(showSearchResult);
+  product(showSearchResult);
+  localStorage.removeItem('fromSearchResult')
+}
+else{
+  loadJSON(`./${show_page}.json`).then((data) => {
+    product(data[show_page]);
+  });
+}
+
+
 // console.log(localStorage.getItem("current_page"));
 
 
-let parent = document.getElementById("parent");
+
 function product(data) {
   data.forEach((element) => {
     // console.log(element.item[0].img1);
@@ -56,7 +68,7 @@ function product(data) {
     `;
     let name = document.createElement("h1");
     let price=document.createElement("p")
-    price.innerHTML="Rs"+" "+element.price
+    price.innerHTML="₹"+" "+element.price
     name.innerText = element.name;
     box.append(name,price)
 

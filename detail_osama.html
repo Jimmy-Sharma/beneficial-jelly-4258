@@ -23,7 +23,7 @@
     h2,
     h3,
     h4 {
-      color: #652f5d;
+       color: #494949;
     }
     #parent {
       /* display: grid; */
@@ -56,7 +56,7 @@
       width: 100%;
     }
     .bag {
-      background-image: linear-gradient(to right, #1FA2FF 0%, #12D8FA  51%, #1FA2FF  100%);
+      background-image: linear-gradient(to right, #4e4e4e 0%, #000000 51%, #474343 100%);
 
 /* margin: 10px; */
 padding: 20px;
@@ -80,29 +80,30 @@ font-weight: 600;
       width: 36%;
     }
     
-      .cart {
+    .cart {
     display: flex;
     flex-direction: column;
     /* gap: 20px; */
     justify-content: space-between;
-    border: 2px solid #1FA2FF;
+    border: 0px solid #1FA2FF;
     border-right: none;
     border-top-left-radius: 8px;
     border-bottom-left-radius: 8px;
+    background-image: linear-gradient(to right, #f5f5f5 0%, #f3f3f3 51%, #f5f5f5 100%);
 }
-    
 .content {
     display: flex;
     flex-direction: column;
     gap: 30px;
     justify-content: center;
     /* background: linear-gradient(45deg, #56114c, #683560); */
-    background-image: linear-gradient(to right, #1FA2FF 0%, #12D8FA  51%, #1FA2FF  100%);
+    background-image: linear-gradient(to right, #1FA2FF 0%, #12D8FA 51%, #1FA2FF 100%);
     background-size: 200%;
     /* margin-left: 20px; */
     border-top-right-radius: 8px;
     border-bottom-right-radius: 8px;
     color: white;
+    background-image: linear-gradient(to right, #2c2c2c 0%, #000000 51%, #212121 100%);
 }
 .content p{
   font-size: 20px;
@@ -218,7 +219,7 @@ font-weight: 600;
     window.location.href = "index.html";
   }
 
-  
+
   let parent = document.getElementById("parent");
   function display(data) {
     // console.log(data);
