@@ -35,8 +35,6 @@ p{
     width: auto;
     padding:  3px 25px;
 }
-
-
 .product_name_PS{
     font-size: 11px;
     line-height: 16px;
@@ -71,13 +69,11 @@ p{
     box-sizing: border-box;
     width: 300px;
 }
-
 .des_main_div_PS p{
     font-size: 12px;
     color: #544b4b;
     font-weight: 600;
 }
-
 .button_DS_PS button{
     border: 0px;
     background-color: white;
@@ -95,7 +91,6 @@ p{
 } */
 .btn-cart {
     background-image: linear-gradient(to right, #2c2c2c 0%, #000000 51%, #212121 100%);
-
     /* margin: 10px; */
     padding: 5px 15px;
     text-align: center;
@@ -109,7 +104,6 @@ p{
     border: none;
   }
   
-
   .btn-cart:hover {
     background-position: right center; /* change the direction of the change here */
     color: #fff;
@@ -130,7 +124,6 @@ p{
     padding: 20px;
     justify-content: right;
     align-items: center;
-
 }
 .total p{
     font-size: 10px;
@@ -150,4 +143,18 @@ p{
 .btn_div{
     display: flex;
     gap: 10px;
+}
+@media only screen and (max-width: 600px) {
+    .item_main_div_PS{
+        flex-direction: column;
+    }
+    .item_sub_div_PS{
+        width: 100%;
+    }
+    .des_main_div_PS{
+        width: 100%;
+    padding: 20px 0;
+    gap: 10px;
+    }
+
 }
