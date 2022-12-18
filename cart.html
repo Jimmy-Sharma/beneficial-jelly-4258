@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- <link rel="stylesheet" href="./styles/navbar.css"> -->
-    <link rel="stylesheet" href="./styles/footer.css">
-    <link rel="stylesheet" href="./styles/cart.css">
+    <link rel="stylesheet" href="./styles/footer.css" />
+    <link rel="stylesheet" href="./styles/cart.css" />
     <link rel="stylesheet" href="navOsama.css" />
     <link
       rel="stylesheet"
@@ -15,20 +15,28 @@
       crossorigin="anonymous"
     />
     <title>Document</title>
-</head>
-<body>    
+  </head>
+  <body>
     <nav id="navbar" class="container"></nav>
-   
-   <div id="cart_parent">
 
-   </div>
-</body>
+    <div id="cart_parent"></div>
+    <div class="total">
+      <div>
+        <h2>Total ₹<span id="rupee">0</span></h2>
+      <p>INCLUDING GST + SHIPPING COST</p>
+      </div>
+      <button class="pay">Continue</button>
+    </div>
+  </body>
 </html>
-<script src="https://kit.fontawesome.com/287d029994.js" crossorigin="anonymous"></script>
+<script
+  src="https://kit.fontawesome.com/287d029994.js"
+  crossorigin="anonymous"
+></script>
 <script src="navOsama.js"></script>
 <script type="module" src="./scripts/cart.js"></script>
 <script>
-    function showmens() {
+  function showmens() {
     localStorage.setItem("current_page", "mens");
     window.location.href = "index.html";
   }
@@ -43,7 +51,3 @@
     window.location.href = "index.html";
   }
 </script>
-
-
-
-
