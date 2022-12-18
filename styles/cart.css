@@ -35,12 +35,7 @@ p{
     width: auto;
     padding:  3px 25px;
 }
-#Makeit{
-      width: auto;
-      padding: 20px;
-      border-radius: 4px;
-      box-shadow: 1px 1px 10px 0px rgb(0 0 0 / 15%);
-  }
+
 
 .product_name_PS{
     font-size: 11px;
@@ -53,6 +48,9 @@ p{
     width: max-content;
     display: flex;
     justify-content: space-between;
+    padding: 20px;
+    border-radius: 4px;
+    box-shadow: 1px 1px 10px 0px rgb(0 0 0 / 15%);
 }
 .item_sub_div_PS{
     width: 200px;
@@ -116,8 +114,9 @@ p{
     color: #fff;
     text-decoration: none;
   }
-#parent{
+#cart_parent{
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+    margin-top: 100px;
 }

@@ -19,9 +19,7 @@
       }
       #nav {
         display: flex;
-        /* height: 100px; */
         justify-content: space-between;
-        /* margin: auto; */
         font-weight: 800;
         padding: 10px;
         align-items: center;
@@ -35,8 +33,6 @@
         z-index: 5;
         left: 0;
         box-sizing: border-box;
-        /* box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, */
-        /* rgba(0, 0, 0, 0.1) 0px 0px 1px 0px; */
       }
       .logo {
         display: flex;
@@ -78,7 +74,7 @@
 
     <div id="parent"></div>
     <div class="copyright">
-      No © copyright issues | Designed and developed by Abu Osama, Prince
+      No © copyright issues | Designed and developed by Abu Osama, Prince,
     </div>
   </body>
 </html>
@@ -159,8 +155,15 @@
     data.forEach((element) => {
       let image_p = document.createElement("img");
       image_p.setAttribute("src", element.image);
+      image_p.onclick= function (){
+        window.location.href = "product_osama.html"
+      }
+
       box_div.append(image_p);
+
+
     });
+    
     Parent.append(box_div);
   }
 

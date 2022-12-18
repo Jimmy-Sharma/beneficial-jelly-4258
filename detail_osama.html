@@ -189,17 +189,18 @@ font-weight: 600;
   // console.log(item);
 
   function cart() {
-    // console.log(item);
+    console.log(item);
     let avail=JSON.parse(localStorage.getItem("cart_data"))
     if(avail){
 
       localStorage.setItem("cart_data",JSON.stringify([...avail,item]))
     }else{
-      localStorage.setItem("cart_data",JSON.stringify([avail]))
+      localStorage.setItem("cart_data",JSON.stringify([item]))
 
     }
   
     window.location.href = "cart.html";
+
   }
 
   function showmens() {
@@ -216,9 +217,11 @@ font-weight: 600;
     localStorage.setItem("current_page", "kids");
     window.location.href = "index.html";
   }
+
+  
   let parent = document.getElementById("parent");
   function display(data) {
-    console.log(data);
+    // console.log(data);
 
     parent.innerHTML = `
 <div class="child-div content">
