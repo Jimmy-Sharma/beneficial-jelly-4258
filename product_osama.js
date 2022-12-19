@@ -31,6 +31,7 @@ function product(data) {
 
 
     let box_div = document.createElement("div");
+    box_div.style.cursor="pointer"
     box_div.classList.add("tata");
     main_div.classList.add("bata");
     box_div.addEventListener("click", function () {

@@ -32,7 +32,7 @@
           </li>
            
          
-          <i class="fa-solid fa-credit-card"></i>
+          
       </div>
   <ul id="#style-2">
   <div class="item" id="mobile"> 
@@ -138,7 +138,8 @@
 
 
   let switch_to_index = document.getElementById("switch_to_index")
-
+  switch_to_index.style.cursor= "pointer"
+  
   switch_to_index.addEventListener("click",function(){
     window.location.href="index.html"
     console.log("me")

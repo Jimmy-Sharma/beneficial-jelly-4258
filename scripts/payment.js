@@ -84,13 +84,22 @@ checkout.onclick = () => {
 		alert("Your order has been placed");
 		window.location.href = "index.html";
 	}
+
+	JSON.parse(localStorage.removeItem("cart_data"))
+	JSON.parse(localStorage.removeItem("payment"))
 };
 
 // DOM manupulation
 let subtotal = document.querySelector("#subtotal>span+span");
 let deliveryCharge = document.querySelector("#delivery_charges>span+span");
 let totalPrice = document.querySelector("#total>span+span");
-let amountDetails = JSON.parse(localStorage.getItem("amountDetails"));
 let total__price_to_pay = document.querySelector("#totalPrice__");
 
+let amount=JSON.parse(localStorage.getItem("payment"))
+let total_amt=amount+99
+totalPrice.innerText="₹ "+total_amt
+subtotal.innerText="₹ "+amount
+total__price_to_pay.innerText="₹ "+amount
+
+deliveryCharge.innerText="₹ 99"
 

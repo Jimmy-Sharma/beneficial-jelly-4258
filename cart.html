@@ -14,6 +14,8 @@
       integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm"
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="/styles/footer.css">
+    <link rel="stylesheet" href="/styles/index.css">
     <title>Document</title>
   </head>
   <body>
@@ -23,10 +25,33 @@
     <div class="total">
       <div>
         <h2>Total ₹<span id="rupee">0</span></h2>
-      <p>INCLUDING GST + SHIPPING COST</p>
+      <p>INCLUDING GST</p>
       </div>
-      <button class="pay">Continue</button>
+      <button id="move_to_payment" class="pay">Continue</button>
     </div>
+    <div id="newsLetter">
+      <a href="https://www.zara.com/in/en/z-newsletter-nl1400.html?v1=11110"><h3 id="heading">JOIN OUR NEWSLETTER</h3></a>
+      </div>
+    
+      <div id="socials">
+      <a href="https://www.instagram.com/zara/"><h6>INSTAGRAM</h6></a>
+      <a href="https://www.facebook.com/Zara"> <h6>FACEBOOK</h6><a>
+      <a href="https://twitter.com/ZARA"><h6>TWITTER</h6><a>
+      <a href="https://www.pinterest.es/zaraofficial/"><h6>PINTEREST</h6><a>
+      <a href="https://www.youtube.com/user/zara"><h6>YOUTUBE</h6><a>
+      <a href="https://open.spotify.com/user/r6ivwuv0ebk346hhxo446pbfv"><h6>SPOTIFY</h6><a>
+     </div>
+    
+      <div id="bottom">
+          NAME AND ADDRESS OF THE MANUFACTURER:
+          <br> INDUSTRIA DE DISEÑO TEXTIL, S.A. (INDITEX, S.A.)
+          <br>AVENIDA DE LA DIPUTACIÓN, EDIFICIO INDITEX, 15143, ARTEIXO (A CORUÑA),
+            SPAIN
+          </h6>
+        </div>
+        <div class="copyright">
+          No © copyright issues
+        </div>
   </body>
 </html>
 <script
@@ -50,4 +75,6 @@
     localStorage.setItem("current_page", "kids");
     window.location.href = "index.html";
   } 
+
+
 </script>

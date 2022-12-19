@@ -78,7 +78,7 @@ header {
 #myBag_major {
     width: 100%;
     display: flex;
-    background-color: #0092DF;
+    background-image: linear-gradient(to right, #2c2c2c 0%, #000000 51%, #212121 100%);
     height: 60px;
 }
 
@@ -343,7 +343,7 @@ header {
 }
 
 .checkout {
-    background-color: var(--text);
+    background-image: linear-gradient(to right, #2c2c2c 0%, #000000 51%, #212121 100%);
     color: white;
     font-size: 15px;
     font-weight: 600;
