@@ -81,44 +81,16 @@ checkout.onclick = () => {
 		alert2.style.display = "none";
 		localStorage.setItem("flag", JSON.stringify("true"));
 		window.location.reload();
-		// alert("Your order has been placed");
-		// window.location.href = "index.html";
+		alert("Your order has been placed");
+		window.location.href = "index.html";
 	}
 };
 
 // DOM manupulation
 let subtotal = document.querySelector("#subtotal>span+span");
 let deliveryCharge = document.querySelector("#delivery_charges>span+span");
-let gst = document.querySelector("#gst>span+span");
 let totalPrice = document.querySelector("#total>span+span");
-let discountSpan = document.querySelector("#discount>span+span");
 let amountDetails = JSON.parse(localStorage.getItem("amountDetails"));
 let total__price_to_pay = document.querySelector("#totalPrice__");
 
-console.log("amountDetails: ", amountDetails);
-let discount = amountDetails.discount;
-let SubValue = amountDetails.add;
 
-const amounDetailsAppend = (discountedPrice, totalPayablePrice) => {
-	subtotal.innerHTML =
-		"Rs." +
-		(discountedPrice || totalPayablePrice).toLocaleString("en-IN");
-	deliveryCharge.innerHTML = `Rs. 40.00`;
-	gst.innerHTML = "Rs." + `${(discountedPrice || totalPayablePrice) * 0.18}`;
-
-	//todo discount for...
-	if (discountedPrice)
-		discountSpan.innerHTML =
-			"Rs." +
-			(totalPayablePrice - discountedPrice).toLocaleString("en-IN");
-	else discountSpan.innerHTML = `Rs. 0.00`;
-
-	//totolprice...
-	let val =
-		(discountedPrice || totalPayablePrice) +
-		40 +
-		(discountedPrice || totalPayablePrice) * 0.18;
-	totalPrice.innerHTML = `Rs. ${val.toLocaleString("en-IN")}`;
-	total__price_to_pay.innerHTML = `Rs. ${val.toLocaleString("en-IN")}`;
-};
-amounDetailsAppend(discount, SubValue);
