@@ -17,7 +17,7 @@
   </li>
   <li>
   <i class="fa-solid fa-user"></i>
-  <a class="loginb" href="login.html">Log In</a>
+  <a id="user_name" class="loginb" href="login.html"></a>
   </li>
   <li>
   <i class="fa-solid fa-bag-shopping"></i>
@@ -37,7 +37,7 @@
   <ul id="#style-2">
   <div class="item" id="mobile"> 
   <i class="fa-solid fa-user"></i>
-  <a class="loginb" href="login.html">Log In</a>
+  <a id="user_name_res" class="loginb" href="login.html"></a>
   </li>
   <li>
   <i class="fa-solid fa-bag-shopping"></i>
@@ -144,3 +144,15 @@
     window.location.href="index.html"
     console.log("me")
   })
+
+
+
+  var uname=localStorage.getItem("x") || "Log In"
+
+  let userName=document.getElementById("user_name")
+
+  let userNameREs=document.getElementById("user_name_res")
+  
+
+userName.innerText=uname
+userNameREs.innerText=uname
