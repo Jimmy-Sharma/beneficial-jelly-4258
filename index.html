@@ -1,13 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="navOsama.css" />
-    <link rel="stylesheet" href="styles/index.css">
 
-    <!-- <style>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="navOsama.css" />
+  <link rel="stylesheet" href="styles/index.css">
+  <link rel="stylesheet" href="/styles/footer.css">
+
+  <!-- <style>
       * {
         margin: 0px;
         padding: 0px;
@@ -69,15 +71,46 @@
         text-align: center;
       }
     </style> -->
-  </head>
-  <body>
-    <nav id="navbar" class="container"></nav>
+</head>
 
-    <div id="parent"></div>
-    <div class="copyright">
-      No © copyright issues | Designed and developed by Abu Osama, Prince,
-    </div>
-  </body>
+<body>
+  <nav id="navbar" class="container"></nav>
+
+  <div id="parent"></div>
+  <div id="newsLetter">
+    <a href="https://www.zara.com/in/en/z-newsletter-nl1400.html?v1=11110">
+      <h3 id="heading">JOIN OUR NEWSLETTER</h3>
+    </a>
+  </div>
+
+  <div id="socials">
+    <a href="https://www.instagram.com/zara/">
+      <h6>INSTAGRAM</h6>
+    </a>
+    <a href="https://www.facebook.com/Zara">
+      <h6>FACEBOOK</h6><a>
+        <a href="https://twitter.com/ZARA">
+          <h6>TWITTER</h6><a>
+            <a href="https://www.pinterest.es/zaraofficial/">
+              <h6>PINTEREST</h6><a>
+                <a href="https://www.youtube.com/user/zara">
+                  <h6>YOUTUBE</h6><a>
+                    <a href="https://open.spotify.com/user/r6ivwuv0ebk346hhxo446pbfv">
+                      <h6>SPOTIFY</h6><a>
+  </div>
+
+  <div id="bottom">
+    NAME AND ADDRESS OF THE MANUFACTURER:
+    <br> INDUSTRIA DE DISEÑO TEXTIL, S.A. (INDITEX, S.A.)
+    <br>AVENIDA DE LA DIPUTACIÓN, EDIFICIO INDITEX, 15143, ARTEIXO (A CORUÑA),
+    SPAIN
+    </h6>
+  </div>
+  <div class="copyright">
+    No © copyright issues
+  </div>
+</body>
+
 </html>
 <script>
   let data = {
@@ -156,7 +189,7 @@
     data.forEach((element) => {
       let image_p = document.createElement("img");
       image_p.setAttribute("src", element.image);
-      image_p.onclick= function (){
+      image_p.onclick = function () {
         window.location.href = "product_osama.html"
       }
 
@@ -164,7 +197,7 @@
 
 
     });
-    
+
     Parent.append(box_div);
   }
 
@@ -198,4 +231,3 @@
 </script>
 <script src="https://kit.fontawesome.com/287d029994.js" crossorigin="anonymous"></script>
 <script src="navOsama.js"></script>
-

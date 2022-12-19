@@ -88,9 +88,8 @@ function remove_item(element,index) {
 }
 
 
-
-let checkout=document.getElementsByClassName("pay")
-checkout.addEventListener("click",function(){
+let xyz=document.querySelector("#move_to_payment")
+xyz.addEventListener("click",function(){
+    localStorage.setItem("payment",JSON.stringify(sum))
     window.location.href="payment.html"
 })
-

@@ -106,6 +106,7 @@
   padding: 10px;
   font-size: 25px;
   margin-left: 20px;
+  cursor: pointer;
 }
 .logo img {
   /* height: 200px; */

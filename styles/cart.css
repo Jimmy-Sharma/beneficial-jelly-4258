@@ -139,6 +139,7 @@ p{
     border-radius: 4px;
     border: none;
     margin-left: 20px;
+    cursor: pointer;
 }
 .btn_div{
     display: flex;
