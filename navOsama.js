@@ -7,7 +7,7 @@
     <label htmlFor="checker" class="line">
     <i class="fas fa-bars" onclick="show()"></i>
   </label>
-    <div class="logo">  
+    <div id="switch_to_index" class="logo">  
     <img src="zara1.png" alt="" />
   </div>
    <div id="right">
@@ -135,3 +135,11 @@
     const res = await fetch(url);
     return await res.json();
   }
+
+
+  let switch_to_index = document.getElementById("switch_to_index")
+
+  switch_to_index.addEventListener("click",function(){
+    window.location.href="index.html"
+    console.log("me")
+  })
