@@ -581,3 +581,24 @@ header {
     border: 0px;
     font-size: 15px;
 }
+
+
+@media only screen and (max-width: 600px){
+    .justFlexIt div+div{
+        flex-wrap: wrap;
+    }
+    
+    #rhs_div {
+    width: 100%;
+}
+#lhs_cartDiv{
+    width: 100%;
+}
+
+#main_div{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+}
