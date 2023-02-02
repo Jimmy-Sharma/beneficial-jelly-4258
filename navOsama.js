@@ -24,7 +24,6 @@
   <a class="help" href="help.html">HELP</a>
   </li>
          
-         
         
         
           <li><i class="fa-solid fa-cart-shopping"></i>
