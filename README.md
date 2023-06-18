@@ -49,3 +49,7 @@ To run this project locally, follow these steps:
 
 ![Result Page](assest/B4.png)
 
+- <strong>Payment Page</strong>
+
+![Result Page](assest/B5.png)
+
