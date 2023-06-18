@@ -1,6 +1,6 @@
 # Beneficial Jelly E-Commerce Website
 
-Welcome to the Beneficial Jelly E-Commerce website! This is a simple example of an e-commerce website built using HTML, CSS, and JavaScript.
+ Zara is one of the world's largest international fashion companies . It belongs to Inditex, the world's biggest fashion group. Zara is a Spanish clothing retailer based in Galicia, Spain. Founded by Amancio Ortega in 1975, it is the flagship chain store of the Inditex group, the world's largest apparel retailer.
 
 ## Demo
 
