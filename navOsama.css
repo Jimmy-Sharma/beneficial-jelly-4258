@@ -203,13 +203,14 @@ cursor: pointer;
     width: 100px;
   }
   .item{
-    width: 100%;
+    width: 24.3%;
     align-items: center;
     justify-content: center;
 
   }
   #mobile{
     display: flex;
+    width: 24.3%;
   }
   .menu{
     width: max-content;
