@@ -30,3 +30,22 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/jimmy-sharma/beneficial-jelly-4258.git
 
+
+## Page Description
+
+- <strong>Homepage</strong>
+
+![Homepage](assest/B1.png)
+
+- <strong>Product Page</strong>
+
+![Registration Page](assest/B2.png)
+
+- <strong>ProductDetails Page</strong>
+
+![Typing Page](assest/B3.png)
+
+- <strong>Cart Page</strong>
+
+![Result Page](assest/B4.png)
+
