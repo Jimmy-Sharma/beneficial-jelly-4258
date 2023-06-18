@@ -39,17 +39,17 @@ To run this project locally, follow these steps:
 
 - <strong>Product Page</strong>
 
-![Registration Page](assest/B2.png)
+![Product Page](assest/B2.png)
 
 - <strong>ProductDetails Page</strong>
 
-![Typing Page](assest/B3.png)
+![ProductDetails Page](assest/B3.png)
 
 - <strong>Cart Page</strong>
 
-![Result Page](assest/B4.png)
+![Cart Page](assest/B4.png)
 
 - <strong>Payment Page</strong>
 
-![Result Page](assest/B5.png)
+![Payment Page](assest/B5.jpeg)
 
